@@ -1,0 +1,1001 @@
+,Title,ID,Vote_Avg,Vote_Count,Popularity,release_year,Director,Gender,Revenue,Budget
+0,Jurassic World: Fallen Kingdom,351286,6.6,2043,237.876,2018,Juan Antonio Bayona,male,711501000,170000000
+1,Ant-Man and the Wasp,363088,7.1,698,174.225,2018,Peyton Reed,,303930000,140000000
+2,Avengers: Infinity War,299536,8.4,5815,165.192,2018,Joe Russo,male,2021970014,300000000
+3,Thor: Ragnarok,284053,7.5,7396,156.049,2017,Taika Waititi,,853977126,180000000
+4,Mission: Impossible - Fallout,353081,5.2,42,139.801,2018,Christopher McQuarrie,male,0,0
+5,Incredibles 2,260513,7.7,1274,129.972,2018,Brad Bird,male,868429911,200000000
+6,The First Purge,442249,6.2,310,126.592,2018,Gerard McMurray,male,41953945,13000000
+7,Ready Player One,333339,7.7,3056,112.149,2018,Steven Spielberg,male,581961758,175000000
+8,Hotel Transylvania 2,159824,6.7,2152,109.652,2015,Genndy Tartakovsky,,473226958,80000000
+9,The Purge,158015,6.1,3535,109.626,2013,James DeMonaco,male,89328627,3000000
+10,The Purge: Anarchy,238636,6.6,2841,109.459,2014,James DeMonaco,male,108782847,9000000
+11,Mission: Impossible - Rogue Nation,177677,7.1,4147,97.57,2015,Christopher McQuarrie,male,682330139,150000000
+12,Fifty Shades Freed,337167,6.0,2325,96.228,2018,James Foley,male,368307760,55000000
+13,Mission: Impossible,954,6.8,3599,93.278,1996,Brian De Palma,male,457696359,80000000
+14,Rampage,427641,6.1,1363,92.784,2018,Brad Peyton,male,424545471,120000000
+15,Ant-Man,102899,7.0,8578,86.383,2015,Peyton Reed,,519311965,130000000
+16,Black Panther,284054,7.3,6912,81.649,2018,Ryan Coogler,male,1346499580,200000000
+17,Qayamat: City Under Threat,318484,5.5,13,77.697,2003,,,0,0
+18,A Quiet Place,447332,7.2,2270,76.057,2018,John Krasinski,male,328260889,17000000
+19,Deadpool 2,383498,7.6,3107,75.963,2018,David Leitch,male,692129923,110000000
+20,The Purge: Election Year,316727,6.2,2104,70.588,2016,James DeMonaco,male,118587880,10000000
+21,Hotel Transylvania 3: Summer Vacation,400155,7.1,141,70.326,2018,Genndy Tartakovsky,,100176000,80000000
+22,Mission: Impossible - Ghost Protocol,56292,6.9,4944,67.851,2011,Brad Bird,male,694713380,145000000
+23,Tomb Raider,338970,6.2,2207,67.738,2018,Roar Uthaug,male,273521715,94000000
+24,Guardians of the Galaxy,118340,7.9,13884,66.602,2014,James Gunn,male,773328629,170000000
+25,Star Wars: The Last Jedi,181808,7.1,6048,63.86,2017,Rian Johnson,male,1332459537,200000000
+26,Overboard,454619,6.1,104,62.248,2018,Rob Greenberg,male,15425000,12000000
+27,Detective Conan: Zero the Enforcer,493006,4.5,10,61.877,2018,Yuzuru Tachikawa,female,0,0
+28,Jurassic World,135397,6.5,11577,61.338,2015,Colin Trevorrow,male,1671713208,150000000
+29,Maleficent,102651,7.0,6375,59.725,2014,Robert Stromberg,male,758539785,180000000
+30,Phoenix Forgotten,443319,5.4,100,58.806,2017,Justin Barber,male,3600000,2800000
+31,The Maze Runner,198663,7.0,8412,58.12,2014,Wes Ball,male,348300000,34000000
+32,Mission: Impossible III,956,6.5,2716,57.849,2006,J.J. Abrams,male,397850012,150000000
+33,Mamma Mia! Here We Go Again,458423,7.0,51,56.086,2018,Ol Parker,male,34977000,75000000
+34,The Equalizer 2,345887,5.6,36,55.875,2018,Antoine Fuqua,male,0,0
+35,Skyscraper,447200,6.0,162,54.807,2018,Rawson Thurber,,73892260,125000000
+36,Mission: Impossible II,955,6.0,2654,54.334,2000,John Woo,male,546388105,125000000
+37,What Happened to Monday,406990,7.2,2252,53.052,2017,Tommy Wirkola,male,0,0
+38,War for the Planet of the Apes,281338,6.9,4056,52.597,2017,Matt Reeves,male,488533726,150000000
+39,Pacific Rim: Uprising,268896,5.9,1156,52.157,2018,Steven S. DeKnight,male,290061297,150000000
+40,Harry Potter and the Philosopher's Stone,671,7.7,10270,49.116,2001,Chris Columbus,male,976475550,125000000
+41,Justice League,141052,6.3,5078,46.087,2017,Zack Snyder,male,657924295,500000000
+42,Logan,263115,7.7,9672,45.737,2017,James Mangold,male,616801808,97000000
+43,Geostorm,274855,5.8,1558,44.835,2017,Dean Devlin,male,221600160,120000000
+44,The Avengers,24428,7.5,15488,44.439,2012,Joss Whedon,male,1519557910,220000000
+45,Interstellar,157336,8.2,14739,43.853,2014,Christopher Nolan,male,675120017,165000000
+46,Blade Runner 2049,335984,7.3,4806,43.821,2017,Denis Villeneuve,male,259239658,150000000
+47,Avengers: Age of Ultron,99861,7.3,9910,43.658,2015,Joss Whedon,male,1405403694,280000000
+48,Red Sparrow,401981,6.4,1780,43.508,2018,Francis Lawrence,male,147988192,69000000
+49,The Lord of the Rings: The Fellowship of the Ring,120,8.2,11542,43.501,2001,Peter Jackson,male,871368364,93000000
+50,Annihilation,300668,6.3,2395,43.435,2018,Alex Garland,male,41782301,40000000
+51,Guardians of the Galaxy Vol. 2,283995,7.6,8836,43.288,2017,James Gunn,male,863756051,200000000
+52,12 Strong,429351,5.1,775,42.825,2018,Nicolai Fuglsig,male,62928960,0
+53,Spider-Man: Homecoming,315635,7.3,8157,42.636,2017,Jon Watts,male,880166924,175000000
+54,Insurgent,262500,6.3,5328,42.329,2015,Robert Schwentke,male,295238201,110000000
+55,The Equalizer,156022,7.1,3772,41.985,2014,Antoine Fuqua,male,192330738,55000000
+56,Truth or Dare,460019,6.1,709,41.864,2018,Jeff Wadlow,male,92953572,3500000
+57,Maze Runner: The Death Cure,336843,7.1,2215,41.78,2018,Wes Ball,male,284881603,62000000
+58,Game Night,445571,6.9,1253,41.431,2018,John Francis Daley,male,117140558,37000000
+59,Hotel Transylvania,76492,6.8,3552,40.876,2012,Genndy Tartakovsky,,358375603,85000000
+60,Aage Ki Soch,343111,2.8,4,40.785,1988,Dada Kondke,female,0,0
+61,John Wick,245891,7.0,7796,40.663,2014,Chad Stahelski,male,88761661,20000000
+62,X-Men: Days of Future Past,127585,7.5,8137,40.159,2014,Bryan Singer,male,747862775,250000000
+63,Thor: The Dark World,76338,6.7,7429,40.097,2013,Alan Taylor,male,644571402,170000000
+64,Star Wars,11,8.2,9249,39.674,1977,George Lucas,male,775398007,11000000
+65,Sleight,347882,5.2,332,39.351,2017,J.D. Dillard,male,0,0
+66,X-Men: Apocalypse,246655,6.5,6584,39.342,2016,Bryan Singer,male,543934787,178000000
+67,Pirates of the Caribbean: The Curse of the Black Pearl,22,7.6,9742,39.182,2003,Gore Verbinski,male,655011224,140000000
+68,Dawn of the Planet of the Apes,119450,7.3,5947,38.915,2014,Matt Reeves,male,710644566,170000000
+69,Deadpool,293660,7.5,15943,38.543,2016,Tim Miller,male,783100000,58000000
+70,Batman v Superman: Dawn of Justice,209112,5.8,9809,38.469,2016,Zack Snyder,male,873260194,250000000
+71,Captain America: Civil War,271110,7.2,10646,38.062,2016,Anthony Russo,male,1153304495,240000000
+72,Thor,10195,6.7,9597,37.872,2011,Kenneth Branagh,male,449326618,150000000
+73,Dunkirk,374720,7.4,6619,37.528,2017,Christopher Nolan,male,525573161,100000000
+74,The Hobbit: The Battle of the Five Armies,122917,7.2,6621,37.052,2014,Peter Jackson,male,956019788,250000000
+75,Mad Max: Fury Road,76341,7.4,12008,36.935,2015,George Miller,male,378858340,150000000
+76,Split,381288,7.1,6998,36.168,2017,M. Night Shyamalan,,278454358,9000000
+77,The Hunger Games: Mockingjay - Part 1,131631,6.7,8031,35.931,2014,Francis Lawrence,male,752100229,125000000
+78,Gringo,340022,6.0,150,35.71,2018,Nash Edgerton,male,0,0
+79,Now You See Me 2,291805,6.7,5044,35.645,2016,Jon M. Chu,male,334901337,90000000
+80,Wonder Woman,297762,7.2,9471,35.565,2017,Patty Jenkins,female,821847012,149000000
+81,The Shape of Water,399055,7.3,4545,35.515,2017,Guillermo del Toro,male,194989655,19500000
+82,Inception,27205,8.2,17994,35.385,2010,Christopher Nolan,male,825532764,160000000
+83,Fantastic Beasts and Where to Find Them,259316,7.3,8627,35.383,2016,David Yates,male,809342332,180000000
+84,The Dark Knight,155,8.4,15454,35.3,2008,Christopher Nolan,male,1004558444,185000000
+85,Coco,354912,7.9,5211,35.294,2017,Lee Unkrich,male,800526015,175000000
+86,The Fate of the Furious,337339,6.8,5174,34.349,2017,F. Gary Gray,,1238764765,250000000
+87,The Kissing Booth,454983,7.6,1106,34.313,2018,Vince Marcello,male,0,0
+88,Big Hero 6,177572,7.8,8341,34.276,2014,Don Hall,male,657818612,165000000
+89,Beauty and the Beast,321612,6.8,8727,34.227,2017,Bill Condon,male,1263521126,160000000
+90,Fifty Shades Darker,341174,6.0,3522,34.217,2017,James Foley,male,378827494,55000000
+91,Zootopia,269149,7.7,7739,34.138,2016,Byron Howard,male,1023784195,150000000
+92,Maquia: When the Promised Flower Blooms,476292,6.6,5,33.998,2018,Mari Okada,female,0,0
+93,"Love, Simon",449176,8.3,1295,33.748,2018,Greg Berlanti,male,60848932,17000000
+94,Unfriended: Dark Web,505058,5.2,3,33.627,2018,Stephen Susco,male,0,0
+95,Solo: A Star Wars Story,348350,6.8,1227,33.583,2018,Ron Howard,male,315245692,250000000
+96,Avatar,19995,7.3,15403,33.451,2009,James Cameron,male,2787965087,237000000
+97,The Greatest Showman,316029,8.0,2809,33.366,2017,Michael Gracey,male,432844677,84000000
+98,Kingsman: The Golden Circle,343668,7.0,3847,33.083,2017,Matthew Vaughn,male,410902662,104000000
+99,The Incredibles,9806,7.6,7812,33.057,2004,Brad Bird,male,631442092,92000000
+100,American Pie,2105,6.4,3291,32.975,1999,Paul Weitz,male,235483004,11000000
+101,Harry Potter and the Chamber of Secrets,672,7.6,8663,32.649,2002,Chris Columbus,male,876688482,100000000
+102,Unsane,467660,6.1,203,32.505,2018,Steven Soderbergh,male,13121204,1500000
+103,Den of Thieves,449443,6.4,672,32.501,2018,Christian Gudegast,male,79547622,30000000
+104,The Lord of the Rings: The Return of the King,122,8.3,10561,32.427,2003,Peter Jackson,male,1118888979,94000000
+105,The Imitation Game,205596,8.0,8154,32.423,2014,Morten Tyldum,male,233555708,14000000
+106,Mamma Mia!,11631,6.6,2290,32.274,2008,Phyllida Lloyd,,609841637,52000000
+107,Blockers,437557,6.2,371,32.212,2018,Kay Cannon,female,93155065,21000000
+108,X-Men: Dark Phoenix,320288,0.0,0,32.197,2019,Simon Kinberg,male,0,0
+109,Isle of Dogs,399174,7.9,662,31.968,2018,Wes Anderson,male,19405171,62770198
+110,I Kill Giants,419831,6.1,201,31.954,2018,Anders Walter,male,0,15100000
+111,Life of the Party,399796,6.2,140,31.916,2018,Ben Falcone,male,61700416,30000000
+112,Escape Plan 2: Hades,440471,4.6,165,31.885,2018,Steven C. Miller,male,0,0
+113,Ocean's Eight,402900,6.7,611,31.697,2018,Gary Ross,male,116275170,70000000
+114,Sicario: Day of the Soldado,400535,6.7,156,31.338,2018,Stefano Sollima,male,0,0
+115,Men in Black,607,7.0,6152,31.325,1997,Barry Sonnenfeld,male,589390539,90000000
+116,Shipwrecked,71805,6.1,17,31.228,1990,Nils Gaup,male,0,0
+117,I Feel Pretty,460668,6.3,222,31.152,2018,Abby Kohn,female,51748264,32000000
+118,Doctor Strange,284052,7.2,9138,31.122,2016,Scott Derrickson,male,677718395,166000000
+119,Twilight,8966,5.9,5427,31.05,2008,Catherine Hardwicke,female,392616625,37000000
+120,Allegiant,262504,5.9,3033,31.018,2016,Robert Schwentke,male,179246868,110000000
+121,The Lord of the Rings: The Two Towers,121,8.2,9967,31.003,2002,Peter Jackson,male,926287400,79000000
+122,Zoe,458005,6.3,3,30.836,2018,Drake Doremus,male,0,0
+123,Forrest Gump,13,8.3,11286,30.759,1994,Robert Zemeckis,male,677945399,55000000
+124,Star Wars: The Force Awakens,140607,7.4,10597,30.704,2015,J.J. Abrams,male,2068223624,245000000
+125,The Lion King,8587,8.1,7780,30.561,1994,Roger Allers,male,987483777,45000000
+126,The Shawshank Redemption,278,8.6,10547,30.156,1994,Frank Darabont,male,28341469,25000000
+127,Teenage Mutant Ninja Turtles,98566,5.8,3491,30.057,2014,Jonathan Liebesman,male,477200000,125000000
+128,Chicken Run,7443,6.5,1835,29.883,2000,Peter Lord,male,224834564,45000000
+129,Cinderella,150689,6.7,3459,29.288,2015,Kenneth Branagh,male,543514353,95000000
+130,Frozen,109445,7.3,7451,29.237,2013,Chris Buck,male,1274219009,150000000
+131,Disobedience,419743,7.1,109,28.937,2017,Sebastián Lelio,,0,6000000
+132,Iron Man,1726,7.5,12029,28.924,2008,Jon Favreau,male,585174222,140000000
+133,The Matrix,603,8.0,11566,28.841,1999,Lana Wachowski,female,463517383,63000000
+134,Inside Out,150540,8.0,9699,28.769,2015,Pete Docter,male,857611174,175000000
+135,Alien,348,8.0,6026,28.727,1979,Ridley Scott,male,104931801,11000000
+136,Alien: Covenant,126889,5.8,3989,28.722,2017,Ridley Scott,male,232380243,97000000
+137,Ice Age: Collision Course,278154,5.8,1758,28.649,2016,Mike Thurmeier,male,408579038,105000000
+138,A Wrinkle in Time,407451,5.1,507,28.523,2018,Ava DuVernay,female,71700000,103000000
+139,Pirates of the Caribbean: On Stranger Tides,1865,6.4,6821,28.45,2011,Rob Marshall,male,1045713802,380000000
+140,The Martian,286217,7.6,9751,28.293,2015,Ridley Scott,male,630161890,108000000
+141,Tau,411143,6.3,203,28.217,2018,Federico D'Alessandro,male,0,0
+142,Transformers: The Last Knight,335988,6.0,2481,28.131,2017,Michael Bay,male,605425157,217000000
+143,Pirates of the Caribbean: Dead Men Tell No Tales,166426,6.5,5179,27.973,2017,Joachim Rønning,male,794191988,230000000
+144,Super Troopers 2,50022,6.2,80,27.932,2018,Jay Chandrasekhar,male,18850674,13500000
+145,Fury,228150,7.4,5343,27.855,2014,David Ayer,male,211817906,68000000
+146,Titanic,597,7.7,10821,27.823,1997,James Cameron,male,1845034188,200000000
+147,The Godfather,238,8.6,8037,27.739,1972,Francis Ford Coppola,male,245066411,6000000
+148,Ice Age,425,7.2,5730,27.666,2002,Chris Wedge,male,383257136,59000000
+149,Terminator Genisys,87101,5.9,4536,27.641,2015,Alan Taylor,male,440603537,155000000
+150,Transformers: Age of Extinction,91314,5.8,3970,27.613,2014,Michael Bay,male,1091405097,210000000
+151,Jumanji: Welcome to the Jungle,353486,6.6,4829,27.534,2017,Jake Kasdan,male,962119864,90000000
+152,Dances with Wolves,581,7.8,1512,27.527,1990,Kevin Costner,male,424208848,22000000
+153,Zombies,483980,7.1,68,27.494,2018,Paul Hoen,male,0,0
+154,Ghostland,476299,7.3,166,27.487,2018,Pascal Laugier,male,0,0
+155,mother!,381283,6.9,2280,27.397,2017,Darren Aronofsky,male,44516999,30000000
+156,Baby Driver,339403,7.4,5663,27.341,2017,Edgar Wright,male,226945087,34000000
+157,Sicario,273481,7.2,3462,27.035,2015,Denis Villeneuve,male,84025816,30000000
+158,The Dark Knight Rises,49026,7.7,11544,27.002,2012,Christopher Nolan,male,1084939099,250000000
+159,"Monsters, Inc.",585,7.7,8420,26.985,2001,Pete Docter,male,562816256,115000000
+160,Crayon Shin-chan: Burst Serving! Kung Fu Boys ~Ramen Rebellion~,507562,1.0,1,26.882,2018,Wataru Takahashi,male,0,0
+161,The Hobbit: An Unexpected Journey,49051,7.1,10227,26.85,2012,Peter Jackson,male,1021103568,250000000
+162,"Three Billboards Outside Ebbing, Missouri",359940,8.2,3370,26.806,2017,Martin McDonagh,male,158526998,15000000
+163,Birdman,194662,7.4,6136,26.797,2014,Alejandro González Iñárritu,male,103215094,18000000
+164,Furious 7,168259,7.3,5395,26.68,2015,James Wan,male,1506249360,190000000
+165,Godzilla: City on the Edge of Battle,492719,6.6,14,26.674,2018,Hiroyuki Seshita,male,0,0
+166,Rise of the Planet of the Apes,61791,7.2,5988,26.655,2011,Rupert Wyatt,male,482860185,93000000
+167,Divergent,157350,6.9,6507,26.519,2014,Neil Burger,male,288747895,85000000
+168,Hostiles,384680,6.5,579,26.517,2017,Scott Cooper,male,29815215,55000000
+169,My Neighbor Totoro,8392,8.1,2462,26.516,1988,Hayao Miyazaki,,0,0
+170,The Hunger Games: Catching Fire,101299,7.4,8935,26.435,2013,Francis Lawrence,male,847423452,130000000
+171,Jigsaw,298250,6.0,1236,26.407,2017,Michael Spierig,male,102952888,10000000
+172,John Wick: Chapter 2,324552,6.8,4300,26.348,2017,Chad Stahelski,male,171539887,40000000
+173,Dragon Ball Super: Broly,503314,0.0,0,26.274,2018,Tatsuya Nagamine,male,0,0
+174,Gone Girl,210577,7.9,8023,26.266,2014,David Fincher,male,369330363,61000000
+175,Whiplash,244786,8.4,6117,26.251,2014,Damien Chazelle,male,13092000,3300000
+176,Jurassic Park,329,7.8,6928,26.173,1993,Steven Spielberg,male,920100000,63000000
+177,Fight Club,550,8.4,13005,26.101,1999,David Fincher,male,100853753,63000000
+178,Spectre,206647,6.4,5730,26.014,2015,Sam Mendes,male,880674609,245000000
+179,Harry Potter and the Prisoner of Azkaban,673,7.8,8576,26.001,2004,Alfonso Cuarón,male,789804554,130000000
+180,Suck Me Shakespeer 2,329263,6.5,425,25.819,2015,Bora Dağtekin,male,83027924,0
+181,Murder on the Orient Express,392044,6.7,3478,25.657,2017,Kenneth Branagh,male,351839303,55000000
+182,Toc Toc,437033,6.6,141,25.613,2017,Vicente Villanueva,male,0,0
+183,Night at the Museum: Secret of the Tomb,181533,6.1,2679,25.544,2014,Shawn Levy,male,349424282,127000000
+184,Pirates of the Caribbean: Dead Man's Chest,58,7.1,7374,25.5,2006,Gore Verbinski,male,1065659812,200000000
+185,Arrival,329865,7.4,8071,25.476,2016,Denis Villeneuve,male,203388186,47000000
+186,Kingsman: The Secret Service,207703,7.6,8319,25.391,2015,Matthew Vaughn,male,414351546,81000000
+187,Pirates of the Caribbean: At World's End,285,7.0,6518,25.354,2007,Gore Verbinski,male,961000000,300000000
+188,Batman Begins,272,7.6,9850,25.258,2005,Christopher Nolan,male,374218673,150000000
+189,Maze Runner: The Scorch Trials,294254,6.5,4955,25.242,2015,Wes Ball,male,311256926,61000000
+190,Get Out,419430,7.4,5985,25.216,2017,Jordan Peele,male,255017329,4500000
+191,Grease,621,7.3,2619,25.185,1978,Randal Kleiser,male,181813770,6000000
+192,Kong: Skull Island,293167,6.3,4739,25.144,2017,Jordan Vogt-Roberts,male,566652812,185000000
+193,Despicable Me 2,93456,7.0,6014,25.134,2013,Pierre Coffin,male,970761885,76000000
+194,Iron Man 2,10138,6.7,9368,25.074,2010,Jon Favreau,male,623933331,200000000
+195,Trainwreck,271718,5.8,1470,24.951,2015,Judd Apatow,male,140795793,35000000
+196,The Amazing Spider-Man,1930,6.5,8583,24.885,2012,Marc Webb,male,752215857,215000000
+197,Leon: The Professional,101,8.3,5910,24.851,1994,Luc Besson,male,45284974,16000000
+198,Molly's Game,396371,7.1,1017,24.823,2017,Aaron Sorkin,male,28780744,30000000
+199,There Be Dragons,45054,5.0,78,24.727,2011,Roland Joffé,male,0,0
+200,Toy Story,862,7.9,7794,24.564,1995,John Lasseter,male,373554033,30000000
+201,Tag,455980,7.1,142,24.558,2018,Jeff Tomsic,male,0,28000000
+202,La La Land,313369,7.9,7576,24.549,2016,Damien Chazelle,male,445435700,30000000
+203,Iron Man 3,68721,6.9,11321,24.499,2013,Shane Black,male,1215439994,200000000
+204,Harry Potter and the Deathly Hallows: Part 2,12445,8.0,8712,24.389,2011,David Yates,male,1342000000,125000000
+205,Skyfall,37724,7.0,9099,24.26,2012,Sam Mendes,male,1108561013,200000000
+206,Call Me by Your Name,398818,8.3,2758,24.144,2017,Luca Guadagnino,male,41063475,4000000
+207,Annabelle: Creation,396422,6.4,2332,24.121,2017,David F. Sandberg,male,305092201,15000000
+208,The Fifth Element,18,7.4,5066,24.048,1997,Luc Besson,male,263920180,90000000
+209,Hacksaw Ridge,324786,8.0,5092,24.042,2016,Mel Gibson,female,175302354,40000000
+210,Kung Fu Panda,9502,7.0,4650,24.041,2008,Mark Osborne,male,631744560,130000000
+211,Finding Nemo,12,7.7,8899,24.02,2003,Andrew Stanton,male,940335536,94000000
+212,Harry Potter and the Half-Blood Prince,767,7.5,7827,23.989,2009,David Yates,male,933959197,250000000
+213,Peter Rabbit,381719,6.5,310,23.984,2018,Will Gluck,male,309973563,50000000
+214,Chappie,198184,6.7,4127,23.975,2015,Neill Blomkamp,male,104399548,49000000
+215,Fifty Shades of Grey,216015,5.3,5039,23.84,2015,Sam Taylor-Johnson,male,571006128,40000000
+216,Rogue One: A Star Wars Story,330459,7.5,7546,23.831,2016,Gareth Edwards,male,1056057273,200000000
+217,Broken Star,521410,7.0,1,23.816,2018,Dave Schwep,male,0,0
+218,2001: A Space Odyssey,62,8.0,4401,23.798,1968,Stanley Kubrick,male,68700000,10500000
+219,Billionaire Boys Club,385360,5.0,9,23.74,2018,James Cox,male,0,0
+220,San Andreas,254128,6.1,4168,23.722,2015,Brad Peyton,male,470490832,110000000
+221,Tomorrowland,158852,6.2,3797,23.713,2015,Brad Bird,male,209154322,190000000
+222,Southpaw,307081,7.3,2782,23.656,2015,Antoine Fuqua,male,91709827,30000000
+223,Brave,62177,6.9,6284,23.569,2012,Mark Andrews,male,538983207,185000000
+224,Men in Black II,608,6.2,4408,23.476,2002,Barry Sonnenfeld,male,441818803,140000000
+225,The Scorpion King,9334,5.4,1182,23.459,2002,Chuck Russell,male,165333180,60000000
+226,V for Vendetta,752,7.8,6244,23.418,2006,James McTeigue,male,132511035,54000000
+227,The Expendables,27578,6.0,3803,23.388,2010,Sylvester Stallone,male,274470394,80000000
+228,#realityhigh,455656,6.4,320,23.333,2017,Fernando Lebrija,male,0,0
+229,The Hobbit: The Desolation of Smaug,57158,7.6,6139,23.308,2013,Peter Jackson,male,958400000,250000000
+230,Pixels,257344,5.6,3376,23.296,2015,Chris Columbus,male,243637091,88000000
+231,Saw,176,7.3,3583,23.271,2004,James Wan,male,103911669,1200000
+232,The Post,446354,7.0,1566,23.238,2018,Steven Spielberg,male,174503458,50000000
+233,Ghost Stories,429417,6.8,103,23.118,2018,Jeremy Dyson,male,0,0
+234,Goosebumps,257445,6.1,1448,23.11,2015,Rob Letterman,male,158162788,58000000
+235,Toy Story 2,863,7.4,5707,23.107,1999,John Lasseter,male,497366869,90000000
+236,Ghost in the Shell,315837,5.9,4070,23.092,2017,Rupert Sanders,male,169801921,110000000
+237,Shrek,808,7.5,6138,23.052,2001,Andrew Adamson,male,484409218,60000000
+238,Death Wish,395990,5.6,576,23.04,2018,Eli Roth,,34017028,30000000
+239,Suicide Squad,297761,5.9,10833,23.008,2016,David Ayer,male,745600054,176000000
+240,Lion,334543,8.1,2743,22.931,2016,Garth Davis,male,140302754,12000000
+241,Hereditary,493922,7.1,345,22.915,2018,Ari Aster,male,48241054,10000000
+242,Ice Age: The Meltdown,950,6.5,4405,22.85,2006,Carlos Saldanha,male,660940780,80000000
+243,Pulp Fiction,680,8.4,11871,22.79,1994,Quentin Tarantino,male,213928762,8000000
+244,Seventh Son,68737,5.3,1230,22.645,2014,Sergei Bodrov,male,114178613,95000000
+245,All the Money in the World,446791,6.3,714,22.596,2017,Ridley Scott,male,56996304,50000000
+246,Atomic Blonde,341013,6.2,2772,22.587,2017,David Leitch,male,95673925,30000000
+247,Harry Potter and the Goblet of Fire,674,7.6,8249,22.549,2005,Mike Newell,male,895921036,150000000
+248,Baywatch,339846,6.1,3448,22.536,2017,Seth Gordon,male,177856751,69000000
+249,Le Brio,452187,7.3,222,22.473,2017,Yvan Attal,male,0,0
+250,Wrong Turn 2: Dead End,13186,5.6,396,22.443,2007,Joe Lynch,male,0,4000000
+251,Spirited Away,129,8.5,5616,22.442,2001,Hayao Miyazaki,,274925095,15000000
+252,American Pie 2,2770,6.0,1975,22.412,2001,J.B. Rogers,male,287553595,30000000
+253,Dr. No,646,7.0,1297,22.401,1962,Terence Young,male,59600000,950000
+254,"I, Tonya",389015,7.6,1607,22.317,2017,Craig Gillespie,male,33486673,11000000
+255,Never Back Down,8456,6.5,808,22.28,2008,Jeff Wadlow,male,41627431,20000000
+256,Vacation,296099,6.1,1578,22.261,2015,John Francis Daley,male,104384188,31000000
+257,Barsaat,46375,4.6,7,22.249,1995,Rajkumar Santoshi,male,0,0
+258,Die Hard,562,7.6,5019,22.23,1988,John McTiernan,male,140767956,28000000
+259,Raiders of the Lost Ark,85,7.8,5234,22.167,1981,Steven Spielberg,male,389925971,18000000
+260,Man of Steel,49521,6.5,8135,22.002,2013,Zack Snyder,male,662845518,225000000
+261,Insidious,49018,6.8,2624,21.994,2010,James Wan,male,97009150,1500000
+262,Despicable Me,20352,7.2,8309,21.982,2010,Pierre Coffin,male,543513985,69000000
+263,Back to the Future,105,8.2,8537,21.901,1985,Robert Zemeckis,male,381109762,19000000
+264,Harry Potter and the Deathly Hallows: Part 1,12444,7.7,8066,21.877,2010,David Yates,male,954305868,250000000
+265,Future World,411135,4.9,33,21.862,2018,James Franco,male,0,0
+266,xXx: Return of Xander Cage,47971,5.6,2007,21.852,2017,D.J. Caruso,male,346147658,85000000
+267,Ponyo,12429,7.6,1328,21.834,2008,Hayao Miyazaki,,187479518,41677699
+268,The Empire Strikes Back,1891,8.3,8021,21.819,1980,Irvin Kershner,male,538400000,18000000
+269,The Hunger Games: Mockingjay - Part 2,131634,6.8,5877,21.811,2015,Francis Lawrence,male,653428261,160000000
+270,Inglourious Basterds,16869,8.0,9175,21.807,2009,Quentin Tarantino,male,319131050,70000000
+271,Quantum of Solace,10764,6.2,3743,21.774,2008,Marc Forster,male,586090727,200000000
+272,Life Is Beautiful,637,8.4,5449,21.732,1997,Roberto Benigni,male,229400000,20000000
+273,Blade Runner,78,7.9,5923,21.73,1982,Ridley Scott,male,32868943,28000000
+274,The Commuter,399035,6.0,1369,21.707,2018,Jaume Collet-Serra,male,119757158,30000000
+275,Jurassic World 3,507086,0.0,0,21.702,2021,Colin Trevorrow,male,0,0
+276,Carol,258480,7.3,1410,21.637,2015,Todd Haynes,male,40272135,0
+277,How to Train Your Dragon 2,82702,7.6,4235,21.619,2014,Dean DeBlois,male,609123048,145000000
+278,Django Unchained,68718,7.9,12905,21.612,2012,Quentin Tarantino,male,425368238,100000000
+279,Two Queens and One Consort,80992,5.3,5,21.553,1981,Otto Jongerius,male,0,0
+280,The Devil Wears Prada,350,7.1,4782,21.545,2006,David Frankel,male,326551094,35000000
+281,Suck Me Shakespeer 3,437670,6.3,94,21.544,2017,Bora Dağtekin,male,0,0
+282,The Foreigner,379149,6.8,758,21.518,2017,Martin Campbell,male,145374099,35000000
+283,Ip Man 3,365222,6.7,533,21.502,2015,Wilson Yip,male,156844753,36000000
+284,Nightcrawler,242582,7.7,4695,21.442,2014,Dan Gilroy,male,38697217,8500000
+285,Lady Bird,391713,7.3,2310,21.391,2017,Greta Gerwig,female,76858273,10000000
+286,Power Rangers,305470,6.3,2090,21.383,2017,Dean Israelite,male,142337240,100000000
+287,Gattaca,782,7.5,2533,21.361,1997,Andrew Niccol,male,12532777,36000000
+288,Midnight Sun,419478,7.8,550,21.314,2018,Scott Speer,male,0,0
+289,King Arthur: Legend of the Sword,274857,6.5,2544,21.31,2017,Guy Ritchie,male,146175066,175000000
+290,London Love Story 3,496912,0.0,1,21.277,2018,Asep Kusdinar,male,0,0
+291,The Mask,854,6.7,3818,21.262,1994,Chuck Russell,male,351583407,23000000
+292,Sherlock Gnomes,370567,5.2,124,21.239,2018,John Stevenson,male,87625666,59000000
+293,Traffik,473149,6.0,45,21.225,2018,Deon Taylor,male,5132274,4000000
+294,Beetlejuice,4011,7.2,2171,21.124,1988,Tim Burton,male,73326666,15000000
+295,The Strangers: Prey at Night,371608,5.4,273,21.113,2018,Johannes Roberts,male,18752052,12500000
+296,Wonder,406997,8.2,2281,21.086,2017,Stephen Chbosky,male,300503113,20000000
+297,Se7en,807,8.2,8147,21.03,1995,David Fincher,male,327311859,33000000
+298,You Don't Mess with the Zohan,10661,5.5,1480,20.873,2008,Dennis Dugan,male,201596308,90000000
+299,Underworld,277,6.7,3258,20.843,2003,Len Wiseman,male,95708457,22000000
+300,Ferdinand,364689,7.0,826,20.744,2017,Carlos Saldanha,male,294764262,111000000
+301,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",411,6.9,4117,20.681,2005,Andrew Adamson,male,748806957,180000000
+302,The Matrix Reloaded,604,6.8,4511,20.654,2003,Lilly Wachowski,female,738599701,150000000
+303,The Amazing Spider-Man 2,102382,6.4,5717,20.625,2014,Marc Webb,male,705717432,200000000
+304,The Wolf of Wall Street,106646,7.9,9446,20.622,2013,Martin Scorsese,male,392000694,100000000
+305,Set It Up,384677,7.0,503,20.589,2018,Claire Scanlon,female,0,0
+306,Godzilla,124905,6.1,4077,20.577,2014,Gareth Edwards,male,529076069,160000000
+307,Alice in Wonderland,12155,6.5,6556,20.554,2010,Tim Burton,male,1025491110,200000000
+308,I Am Legend,6479,7.0,7037,20.553,2007,Francis Lawrence,male,585349010,150000000
+309,The Hateful Eight,273248,7.6,6118,20.551,2015,Quentin Tarantino,male,155760117,44000000
+310,"I, Robot",2048,6.8,5396,20.545,2004,Alex Proyas,male,347234916,120000000
+311,Casino Royale,36557,7.4,4972,20.533,2006,Martin Campbell,male,599045960,150000000
+312,Valerian and the City of a Thousand Planets,339964,6.6,2954,20.509,2017,Luc Besson,male,225874228,177200000
+313,Ice Age: Continental Drift,57800,6.2,3616,20.478,2012,Steve Martino,male,877244782,95000000
+314,Sing,335797,6.9,3294,20.468,2016,Garth Jennings,male,632443719,75000000
+315,Captain America: The Winter Soldier,100402,7.6,8173,20.459,2014,Joe Russo,male,714766572,170000000
+316,Edge of Tomorrow,137113,7.6,6498,20.445,2014,Doug Liman,male,370541256,178000000
+317,Siberia,438689,4.6,12,20.441,2018,Matthew Ross,male,0,0
+318,Insidious: The Last Key,406563,6.1,793,20.398,2018,Adam Robitel,male,167184112,10000000
+319,Ratatouille,2062,7.6,6665,20.368,2007,Brad Bird,male,623722818,150000000
+320,Aquaman,297802,0.0,0,20.366,2018,James Wan,male,0,160000000
+321,American Sniper,190859,7.4,6074,20.359,2014,Clint Eastwood,male,542307423,58800000
+322,Close Encounters of the Third Kind,840,7.3,1576,20.34,1977,Steven Spielberg,male,303788635,20000000
+323,Warcraft,68735,6.3,3196,20.297,2016,Duncan Jones,male,433677183,160000000
+324,GoodFellas,769,8.3,4372,20.267,1990,Martin Scorsese,male,46836394,25000000
+325,Your Name.,372058,8.5,2584,20.242,2016,Makoto Shinkai,male,355398372,0
+326,It,346364,7.1,8208,20.24,2017,Andy Muschietti,male,700381748,35000000
+327,Monty Python and the Holy Grail,762,7.8,2357,20.167,1975,Terry Gilliam,male,5028948,400000
+328,Horrible Bosses 2,227159,6.1,2075,20.079,2014,Sean Anders,male,107670357,42000000
+329,Beauty and the Beast,10020,7.7,4353,20.075,1991,Gary Trousdale,male,377350553,25000000
+330,Harry Potter and the Order of the Phoenix,675,7.5,8074,20.071,2007,David Yates,male,938212738,150000000
+331,Sex Tape,225886,5.3,2207,20.051,2014,Jake Kasdan,male,126069509,40000000
+332,Saving Private Ryan,857,8.0,6705,20.02,1998,Steven Spielberg,male,481840909,70000000
+333,The Expendables 3,138103,6.1,2344,20.002,2014,Patrick Hughes,male,206172544,90000000
+334,The Green Mile,497,8.4,6052,19.998,1999,Frank Darabont,male,284600000,60000000
+335,Finding Dory,127380,6.9,6094,19.983,2016,Andrew Stanton,male,1028570889,200000000
+336,The Hangover,18785,7.2,8342,19.886,2009,Todd Phillips,male,459270619,35000000
+337,Airplane!,813,7.2,1581,19.859,1980,Jim Abrahams,male,83453539,3500000
+338,12 Years a Slave,76203,7.9,5130,19.837,2013,Steve McQueen,male,187000000,20000000
+339,Ghostbusters,43074,5.4,3022,19.837,2016,Paul Feig,male,229147509,144000000
+340,Darkest Hour,399404,7.3,1761,19.796,2017,Joe Wright,male,147568410,30000000
+341,Penguins of Madagascar,270946,6.4,1790,19.716,2014,Simon J. Smith,male,373552094,132000000
+342,Fantastic 4: Rise of the Silver Surfer,1979,5.5,3644,19.712,2007,Tim Story,male,289047763,130000000
+343,Wind River,395834,7.4,1462,19.711,2017,Taylor Sheridan,female,184770205,11000000
+344,Cars 3,260514,6.7,1781,19.696,2017,Brian Fee,male,383925276,175000000
+345,Captain America: The First Avenger,1771,6.7,9689,19.695,2011,Joe Johnston,male,370569774,140000000
+346,Cars,920,6.7,5666,19.693,2006,John Lasseter,male,461983149,120000000
+347,Dhadak,504080,10.0,1,19.65,2018,Shashank Khaitan,male,0,0
+348,Ice Princess,13374,6.0,309,19.633,2005,Tim Fywell,male,27645491,25000000
+349,The Sixth Sense,745,7.8,4524,19.632,1999,M. Night Shyamalan,,672806292,40000000
+350,American Made,337170,6.7,1502,19.586,2017,Doug Liman,male,133511855,50000000
+351,Gladiator,98,8.0,7537,19.579,2000,Ridley Scott,male,457640427,103000000
+352,Puss Gets the Boot,40372,6.7,19,19.576,1940,William Hanna,male,0,0
+353,Ex Machina,264660,7.6,6493,19.576,2015,Alex Garland,male,36869414,15000000
+354,World War Z,72190,6.7,7274,19.576,2013,Marc Forster,male,531865000,200000000
+355,Now You See Me,75656,7.3,7798,19.573,2013,Louis Leterrier,male,117698894,75000000
+356,Bruce Almighty,310,6.5,4629,19.566,2003,Tom Shadyac,male,484572835,80000000
+357,Father of the Year,531949,5.6,19,19.536,2018,Tyler Spindel,male,0,0
+358,Winchester,416234,5.8,406,19.473,2018,Michael Spierig,male,25091816,3500000
+359,Unbreakable,9741,7.0,2889,19.464,2000,M. Night Shyamalan,,248118121,75000000
+360,Troy,652,6.9,4093,19.463,2004,Wolfgang Petersen,male,497409852,175000000
+361,The Twilight Saga: Breaking Dawn - Part 2,50620,6.2,3832,19.458,2012,Bill Condon,male,829000000,120000000
+362,Exodus: Gods and Kings,147441,5.7,2420,19.433,2014,Ridley Scott,male,268031828,140000000
+363,Memento,77,8.2,6029,19.413,2000,Christopher Nolan,male,39723096,9000000
+364,Kill Bill: Vol. 1,24,7.9,7162,19.379,2003,Quentin Tarantino,male,180949045,30000000
+365,The Twilight Saga: New Moon,18239,5.7,3806,19.378,2009,Chris Weitz,male,709827462,50000000
+366,Snow White and the Huntsman,58595,5.9,4126,19.377,2012,Rupert Sanders,male,396600000,170000000
+367,Last Holiday,17379,6.5,197,19.372,2006,Wayne Wang,male,38399961,45000000
+368,WALL·E,10681,7.9,8446,19.364,2008,Andrew Stanton,male,521311860,180000000
+369,Oblivion,75612,6.5,5849,19.354,2013,Joseph Kosinski,male,286168572,120000000
+370,Taken 3,260346,6.1,2842,19.352,2014,Olivier Megaton,male,325771424,48000000
+371,Terminator 2: Judgment Day,280,7.8,5472,19.35,1991,James Cameron,male,520000000,100000000
+372,The Dark Tower,353491,5.6,2124,19.349,2017,Nikolaj Arcel,male,111757995,60000000
+373,The Notebook,11036,7.8,4517,19.349,2004,Nick Cassavetes,male,115603229,29000000
+374,Life,395992,6.3,3149,19.339,2017,Daniel Espinosa,male,100541806,58000000
+375,The Expendables 2,76163,6.1,3562,19.335,2012,Simon West,male,312573423,100000000
+376,Pride & Prejudice,4348,7.8,2138,19.334,2005,Joe Wright,male,121147947,28000000
+377,The Death of Superman,487670,7.2,33,19.334,2018,Jake Castorena,male,0,0
+378,Black Swan,44214,7.5,6526,19.32,2010,Darren Aronofsky,male,327803731,13000000
+379,Aladdin,812,7.5,4808,19.32,1992,Ron Clements,male,504050219,28000000
+380,7 Days in Entebbe,433627,6.2,67,19.316,2018,José Padilha,male,0,0
+381,Predator,106,7.3,2880,19.31,1987,John McTiernan,male,98235548,18000000
+382,The Lorax,73723,6.3,1360,19.264,2012,Chris Renaud,male,348840316,70000000
+383,Aliens,679,7.8,4180,19.256,1986,James Cameron,male,183316455,18500000
+384,Hidden Figures,381284,7.9,3479,19.247,2016,Theodore Melfi,male,230698791,25000000
+385,The Princess Diaries,9880,6.5,1660,19.216,2001,Garry Marshall,male,165335153,37000000
+386,Silver Linings Playbook,82693,7.0,6248,19.194,2012,David O. Russell,male,236412453,21000000
+387,Blindspotting,489930,0.0,0,19.189,2018,Carlos López Estrada,male,0,0
+388,Bean,1281,6.3,880,19.176,1997,Mel Smith,female,251212670,18000000
+389,Uncle Drew,474335,7.2,46,19.141,2018,Charles Stone III,male,17665000,19000000
+390,The Covenant,9954,5.3,399,19.12,2006,Renny Harlin,male,37597471,20000000
+391,Kubo and the Two Strings,313297,7.7,1435,19.044,2016,Travis Knight,male,69929545,60000000
+392,Apollo 13,568,7.4,2219,18.983,1995,Ron Howard,male,355237933,52000000
+393,The Babysitter,419479,6.0,947,18.971,2017,McG,,0,0
+394,Secret Love: The Schoolboy and the Mailwoman,176147,7.6,10,18.97,2005,Franziska Buch,female,0,0
+395,Pacific Rim,68726,6.7,6381,18.966,2013,Guillermo del Toro,male,407602906,180000000
+396,Schindler's List,424,8.4,6097,18.959,1993,Steven Spielberg,male,321365567,22000000
+397,You Were Never Really Here,398181,6.4,404,18.946,2017,Lynne Ramsay,female,3356049,0
+398,Godzilla: Planet of the Monsters,449574,6.3,91,18.921,2017,Hiroyuki Seshita,male,0,0
+399,The Monkey King 3,437543,5.1,16,18.814,2018,Soi Cheang,male,0,73000000
+400,The Conjuring,138843,7.4,4302,18.788,2013,James Wan,male,318000141,13000000
+401,Ghostbusters,620,7.4,3388,18.784,1984,Ivan Reitman,male,295212467,30000000
+402,How to Train Your Dragon,10191,7.6,5756,18.748,2010,Dean DeBlois,male,494878759,165000000
+403,The Ballad of Lefty Brown,438457,6.5,34,18.743,2017,Jared Moshe,male,0,0
+404,American History X,73,8.3,4491,18.741,1998,Tony Kaye,male,23875127,20000000
+405,Pitch Perfect 2,254470,6.8,2831,18.689,2015,Elizabeth Banks,female,287506194,29000000
+406,Suck Me Shakespeer,233063,7.1,871,18.668,2013,Bora Dağtekin,male,0,5000000
+407,Ted 2,214756,6.1,3458,18.666,2015,Seth MacFarlane,male,217022588,68000000
+408,Vaseegara,69646,5.7,5,18.658,2003,K. Selvabharathy,,0,0
+409,Scary Movie,4247,6.1,2396,18.598,2000,Keenen Ivory Wayans,male,278019771,19000000
+410,The Princess Diaries 2: Royal Engagement,11130,6.2,1107,18.594,2004,Garry Marshall,male,95149435,40000000
+411,The Bourne Identity,2501,7.4,4509,18.594,2002,Doug Liman,male,214034224,60000000
+412,The Revenant,281957,7.4,8712,18.5,2015,Alejandro González Iñárritu,male,532950503,135000000
+413,Jason Bourne,324668,6.0,2993,18.486,2016,Paul Greengrass,male,415484914,120000000
+414,A Delicious Flight,390845,1.0,2,18.439,2015,Choi Sang-hoon-I,female,0,0
+415,Kung Fu Panda 3,140300,6.6,2281,18.401,2016,Jennifer Yuh Nelson,female,521170825,145000000
+416,Cinderella,11224,6.9,2625,18.344,1950,Clyde Geronimi,male,263591415,2900000
+417,Kick-Ass 2,59859,6.4,3018,18.334,2013,Jeff Wadlow,male,60700000,28000000
+418,Tomorrow Never Dies,714,6.2,1252,18.311,1997,Roger Spottiswoode,male,333011068,110000000
+419,Scarface,111,8.1,4187,18.304,1983,Brian De Palma,male,65884703,25000000
+420,Shakespeare in Love,1934,6.9,1251,18.295,1998,John Madden,male,289317794,25000000
+421,Flatliners,400710,5.6,836,18.233,2017,Niels Arden Oplev,male,45158254,19000000
+422,Into the Woods,224141,5.7,2259,18.228,2014,Rob Marshall,male,212902372,50000000
+423,GoldenEye,710,6.8,1607,18.226,1995,Martin Campbell,male,352194034,58000000
+424,Rocky,1366,7.6,2748,18.182,1976,John G. Avildsen,male,117235147,1000000
+425,Ice Age: Dawn of the Dinosaurs,8355,6.6,3443,18.174,2009,Carlos Saldanha,male,886686817,90000000
+426,Oldboy,670,8.1,2825,18.139,2003,Park Chan-wook,male,14980005,3000000
+427,Dracula Untold,49017,6.2,3109,18.135,2014,Gary Shore,male,217124280,10000000
+428,Sin City: A Dame to Kill For,189,6.3,1778,18.131,2014,Frank Miller,male,39407616,65000000
+429,Up,14160,7.8,9732,18.104,2009,Pete Docter,male,735099082,175000000
+430,Adrift,429300,6.5,79,18.069,2018,Baltasar Kormákur,male,4230000,35000000
+431,Boyka: Undisputed IV,348893,6.0,433,18.066,2016,Todor Chapkanov,male,0,0
+432,The Gods Must Be Crazy,8393,7.1,337,18.042,1980,Jamie Uys,,60000000,5000000
+433,Acrimony,464502,6.7,100,18.01,2018,Tyler Perry,male,34764055,20000000
+434,Braveheart,197,7.8,4393,17.993,1995,Mel Gibson,female,210000000,72000000
+435,2:22,269795,5.7,549,17.99,2017,Paul Currie,male,3500000,0
+436,Jaws,578,7.6,3705,17.978,1975,Steven Spielberg,male,470700000,7000000
+437,One Flew Over the Cuckoo's Nest,510,8.3,4261,17.905,1975,Miloš Forman,male,108981275,3000000
+438,Tully,400579,7.1,112,17.884,2018,Jason Reitman,male,11844986,0
+439,The Circle,339988,5.5,1969,17.853,2017,James Ponsoldt,male,20497844,18000000
+440,Batman,268,7.1,2987,17.843,1989,Tim Burton,male,411348924,35000000
+441,Shrek 2,809,6.8,4593,17.839,2004,Andrew Adamson,male,919838758,150000000
+442,Gnomeo & Juliet,45772,5.8,795,17.836,2011,Kelly Asbury,female,189712432,36000000
+443,The Shining,694,8.2,6044,17.796,1980,Stanley Kubrick,male,44017374,19000000
+444,Die Another Day,36669,5.9,1507,17.795,2002,Lee Tamahori,male,431971116,140000000
+445,American Reunion,71552,6.1,2123,17.791,2012,Jon Hurwitz,male,234989584,50000000
+446,The Jungle Book,9325,7.2,2590,17.776,1967,Wolfgang Reitherman,male,205843612,4000000
+447,The Terminator,218,7.5,5511,17.762,1984,James Cameron,male,78371200,6400000
+448,Shutter Island,11324,8.0,9484,17.733,2010,Martin Scorsese,male,294804195,80000000
+449,Untitled Avengers Movie,299534,0.0,9,17.71,2019,Joe Russo,male,0,0
+450,Howl's Moving Castle,4935,8.3,2961,17.704,2004,Hayao Miyazaki,,234710455,24000000
+451,The Twilight Saga: Breaking Dawn - Part 1,50619,5.9,3821,17.7,2011,Bill Condon,male,712171856,110000000
+452,Princess Mononoke,128,8.3,2863,17.666,1997,Hayao Miyazaki,,159375308,26500000
+453,The Intouchables,77338,8.2,7588,17.63,2011,Eric Toledano,male,426480871,13000000
+454,Terminal,385332,5.6,105,17.619,2018,Vaughn Stein,male,0,0
+455,Underworld: Blood Wars,346672,5.4,1967,17.615,2016,Anna Foerster,female,81093313,35000000
+456,Star Trek Beyond,188927,6.6,3544,17.607,2016,Justin Lin,male,343471816,185000000
+457,Girls und Panzer das Finale: Part II,496891,0.0,0,17.567,,Tsutomu Mizushima,male,0,0
+458,Wild Card,265208,5.4,800,17.514,2015,Simon West,male,0,30000000
+459,The Titan,476926,5.3,369,17.502,2018,Lennart Ruff,male,0,0
+460,Hercules,184315,5.6,2149,17.495,2014,Brett Ratner,male,243400000,100000000
+461,The Prestige,1124,8.1,6302,17.471,2006,Christopher Nolan,male,109676311,40000000
+462,Prometheus,70981,6.4,6288,17.441,2012,Ridley Scott,male,403170142,130000000
+463,Wreck-It Ralph,82690,7.2,5881,17.439,2012,Rich Moore,male,471222889,165000000
+464,A Nightmare on Elm Street,377,7.2,1765,17.378,1984,Wes Craven,male,25504513,1800000
+465,American Assassin,415842,6.2,1125,17.374,2017,Michael Cuesta,male,66676062,33000000
+466,A Clockwork Orange,185,8.1,5017,17.355,1971,Stanley Kubrick,male,26589000,2200000
+467,Jupiter Ascending,76757,5.3,3608,17.347,2015,Lana Wachowski,female,183987723,176000003
+468,American Beauty,14,8.0,4996,17.338,1999,Sam Mendes,male,356296601,15000000
+469,Insidious: Chapter 2,91586,6.6,1786,17.316,2013,James Wan,male,0,5000000
+470,Tangled,38757,7.5,4823,17.314,2010,Nathan Greno,male,591794936,260000000
+471,Life of Pi,87827,7.3,7309,17.307,2012,Ang Lee,female,609016565,120000000
+472,The Aristocats,10112,7.2,1952,17.304,1970,Wolfgang Reitherman,male,55675257,4000000
+473,The Loft,72784,6.4,638,17.301,2014,Erik Van Looy,male,10076790,14000000
+474,Ocean's Eleven,161,7.3,5138,17.286,2001,Steven Soderbergh,male,450717150,85000000
+475,Fantastic Four,166424,4.4,3107,17.285,2015,Josh Trank,male,167977596,120000000
+476,10 Cloverfield Lane,333371,6.9,3659,17.234,2016,Dan Trachtenberg,male,108286421,15000000
+477,Not Cinderella's Type,486753,8.2,12,17.228,2018,Brian Brough,male,0,0
+478,The Endless,430231,6.7,84,17.183,2017,Aaron Moorhead,male,272020,0
+479,The Hurricane Heist,430040,5.3,205,17.179,2018,Rob Cohen,male,5400000,35000000
+480,Lucy,240832,6.3,8191,17.178,2014,Luc Besson,male,126546825,40000000
+481,Elysium,68724,6.4,4471,17.175,2013,Neill Blomkamp,male,286140700,115000000
+482,Independence Day,602,6.7,4383,17.149,1996,Roland Emmerich,male,0,0
+483,Dragon Ball Z: Broly - The Legendary Super Saiyan,34433,7.2,214,17.141,1993,Shigeyasu Yamauchi,,0,0
+484,Mirror Mirror,62764,5.7,1560,17.132,2012,Tarsem Singh,,183018522,85000000
+485,Journey to the Center of the Earth,88751,5.8,1986,17.126,2008,Eric Brevig,male,101702060,45000000
+486,xXx,7451,5.8,1927,17.119,2002,Rob Cohen,male,277448382,70000000
+487,Master and Commander: The Far Side of the World,8619,7.0,1135,17.115,2003,Peter Weir,male,212011111,150000000
+488,Gravity,49047,7.2,7605,17.097,2013,Alfonso Cuarón,male,716392705,105000000
+489,Bridge of Spies,296098,7.2,3503,17.074,2015,Steven Spielberg,male,165478348,40000000
+490,The Bourne Ultimatum,2503,7.3,3653,17.072,2007,Paul Greengrass,male,442824138,70000000
+491,Escape from Alcatraz,10734,7.4,832,17.02,1979,Don Siegel,male,43000000,8000000
+492,The Incredible Hulk,1724,6.1,4574,17.019,2008,Louis Leterrier,male,163712074,150000000
+493,The Hunger Games,70160,7.0,12105,17.015,2012,Gary Ross,male,691210692,75000000
+494,Scary Movie 2,4248,5.5,1626,17.01,2001,Keenen Ivory Wayans,male,141220678,45000000
+495,Friends with Benefits,50544,6.6,3286,16.994,2011,Will Gluck,male,150483765,35000000
+496,Dial M for Murder,521,7.9,788,16.975,1954,Alfred Hitchcock,male,3000000,1400000
+497,The Godfather: Part II,240,8.5,4649,16.97,1974,Francis Ford Coppola,male,102600000,13000000
+498,Spy Game,1535,6.9,786,16.948,2001,Tony Scott,male,143049560,115000000
+499,Monella,50124,4.2,57,16.944,1998,Tinto Brass,male,0,0
+500,The Grand Budapest Hotel,120467,8.0,6370,16.943,2014,Wes Anderson,male,174600318,30000000
+501,Pokémon the Movie: I Choose You!,436931,7.1,193,16.936,2017,Kunihiko Yuyama,,0,0
+502,21 Jump Street,64688,6.8,5222,16.931,2012,Phil Lord,male,201585328,42000000
+503,The Mummy,564,6.7,3804,16.916,1999,Stephen Sommers,male,415885488,80000000
+504,Argo,68734,7.2,4308,16.902,2012,Ben Affleck,male,232324128,44500000
+505,Superhero Movie,11918,4.9,599,16.898,2008,Craig Mazin,male,25871834,35000000
+506,Anon,396806,5.9,271,16.883,2018,Andrew Niccol,male,0,20000000
+507,The Girl in the Fog,468202,6.6,181,16.879,2017,Donato Carrisi,male,0,0
+508,Paul Blart: Mall Cop 2,256961,5.0,728,16.861,2015,Andy Fickman,male,107597242,38000000
+509,A Good Day to Die Hard,47964,5.2,3953,16.86,2013,John Moore,male,304654182,92000000
+510,The Departed,1422,8.1,6037,16.853,2006,Martin Scorsese,male,289847354,90000000
+511,The Matrix Revolutions,605,6.5,4056,16.845,2003,Lilly Wachowski,female,424988211,150000000
+512,Pitch Perfect 3,353616,6.4,1163,16.838,2017,Trish Sie,female,183897530,45000000
+513,Invasion of the Body Snatchers,11549,7.4,348,16.822,1956,Don Siegel,male,0,417000
+514,RoboCop,5548,7.1,1970,16.817,1987,Paul Verhoeven,male,53000000,13000000
+515,The Vanishing of Sidney Hall,353066,6.8,48,16.811,2017,Shawn Christensen,male,0,0
+516,The Lone Ranger,57201,6.0,3127,16.807,2013,Gore Verbinski,male,89289910,255000000
+517,Sexual Chronicles of a French Family,112160,4.3,130,16.799,2012,Pascal Arnold,male,0,0
+518,Wrong Turn,9902,6.1,873,16.776,2003,Rob Schmidt,male,28650575,12600000
+519,My Son,451646,5.8,100,16.743,2017,Christian Carion,male,0,0
+520,The Layover,339404,5.0,236,16.733,2017,William H. Macy,male,0,0
+521,Rolling to You,458534,7.1,130,16.719,2018,Franck Dubosc,male,0,0
+522,Iceman 2,490214,3.7,40,16.706,2018,Raymond Yip Wai-Man,male,0,0
+523,Downsizing,301337,5.1,1154,16.678,2017,Alexander Payne,male,55003890,68000000
+524,Central Intelligence,302699,6.2,2347,16.675,2016,Rawson Thurber,,216972543,50000000
+525,Rio,46195,6.5,2924,16.658,2011,Carlos Saldanha,male,484635760,90000000
+526,R.I.P.D.,49524,5.5,1627,16.653,2013,Robert Schwentke,male,61648500,130000000
+527,Ocean's Twelve,163,6.5,2994,16.644,2004,Steven Soderbergh,male,362744280,110000000
+528,The Bourne Legacy,49040,6.1,3140,16.605,2012,Tony Gilroy,male,276572938,130000000
+529,The Smurfs 2,77931,5.6,916,16.589,2013,Raja Gosnell,male,347434178,105000000
+530,Neelakasham Pachakadal Chuvanna Bhoomi,209419,6.9,8,16.587,2013,Sameer Thahir,male,0,0
+531,Escape Plan,107846,6.7,2201,16.584,2013,Mikael Håfström,male,122915111,50000000
+532,Highlander,8009,6.9,910,16.566,1986,Russell Mulcahy,male,5900000,16000000
+533,The Three Musketeers,52451,5.6,1240,16.552,2011,Paul W.S. Anderson,male,132274484,75000000
+534,Run All Night,241554,6.4,1420,16.545,2015,Jaume Collet-Serra,male,71561644,50000000
+535,Early Man,387592,5.9,154,16.53,2018,Nick Park,male,53431158,50000000
+536,Star Wars: Episode I - The Phantom Menace,1893,6.4,6358,16.461,1999,George Lucas,male,924317558,115000000
+537,John Carter,49529,6.1,2757,16.444,2012,Andrew Stanton,male,284139100,260000000
+538,Ip Man 4,449924,0.0,0,16.442,2018,Wilson Yip,male,0,0
+539,Spy,238713,6.8,3270,16.435,2015,Paul Feig,male,235666219,65000000
+540,Loving Pablo,425336,6.2,172,16.423,2017,Fernando León de Aranoa,male,0,4667008
+541,Phantom Thread,400617,7.2,961,16.418,2017,Paul Thomas Anderson,male,46261438,35000000
+542,The Wedding Ringer,252838,6.5,785,16.404,2015,Jeremy Garelick,male,79799880,23000000
+543,Gotti,339103,5.5,30,16.401,2018,Kevin Connolly,male,0,0
+544,Antz,8916,6.0,1908,16.401,1998,Eric Darnell,male,171757863,60000000
+545,Independence Day: Resurgence,47933,5.0,3293,16.39,2016,Roland Emmerich,male,389681935,165000000
+546,Bambi,3170,6.9,2149,16.37,1942,David Hand,male,267447150,858000
+547,National Treasure,2059,6.5,2739,16.314,2004,Jon Turteltaub,male,347451894,100000000
+548,The Captive,244761,5.9,433,16.295,2014,Atom Egoyan,male,1075178,0
+549,Full Metal Jacket,600,8.1,3814,16.286,1987,Stanley Kubrick,male,46357676,17000000
+550,Saw II,215,6.4,2009,16.263,2005,Darren Lynn Bousman,male,152925093,4000000
+551,Spider-Man 3,559,6.0,5392,16.237,2007,Sam Raimi,male,890871626,258000000
+552,Indiana Jones and the Temple of Doom,87,7.2,3846,16.218,1984,Steven Spielberg,male,333000000,28000000
+553,Madagascar,953,6.7,4689,16.205,2005,Eric Darnell,male,532680671,75000000
+554,The Karate Kid,38575,6.2,2401,16.2,2010,Harald Zwart,male,357852395,40000000
+555,The Little Mermaid,10144,7.3,2948,16.197,1989,Ron Clements,male,211343479,40000000
+556,Trolls,136799,6.7,1482,16.181,2016,Mike Mitchell,male,346864462,125000000
+557,Cars 2,49013,5.9,3044,16.151,2011,John Lasseter,male,559852396,200000000
+558,Death Race 4: Beyond Anarchy,401478,5.3,20,16.141,2018,Don Michael Paul,male,0,0
+559,The Man with the Golden Gun,682,6.4,725,16.121,1974,Guy Hamilton,male,97572000,7000000
+560,Toy Story 3,10193,7.7,6486,16.112,2010,Lee Unkrich,male,1066969703,200000000
+561,Live Free or Die Hard,1571,6.5,2704,16.104,2007,Len Wiseman,male,383531464,110000000
+562,Reservoir Dogs,500,8.1,5459,16.084,1992,Quentin Tarantino,male,0,10000000
+563,Frankenstein,3035,7.5,446,16.063,1931,James Whale,male,12000000,291000
+564,Underworld: Awakening,52520,6.2,2236,16.063,2012,Måns Mårlind,male,160112671,70000000
+565,Barbie and the Diamond Castle,13004,6.9,182,16.055,2008,Gino Nichele,male,0,0
+566,Ted,72105,6.3,6304,16.049,2012,Seth MacFarlane,male,549368315,50000000
+567,The Cloverfield Paradox,384521,5.7,1100,16.038,2018,Julius Onah,male,0,10000000
+568,Self/less,238615,6.3,1489,16.033,2015,Tarsem Singh,,30523226,26000000
+569,The Scorpion King: Rise of a Warrior,13486,4.1,213,16.023,2008,Russell Mulcahy,male,0,0
+570,Revenge,467938,6.5,156,16.021,2018,Coralie Fargeat,female,0,0
+571,Blackhat,201088,5.2,1011,16.014,2015,Michael Mann,male,17752940,70000000
+572,The Void,378018,5.8,375,15.995,2016,Jeremy Gillespie,male,151042,0
+573,The Truman Show,37165,8.0,6970,15.985,1998,Peter Weir,male,264118201,60000000
+574,211,500919,5.1,39,15.981,2018,York Alec Shackleton,male,0,0
+575,Conan the Barbarian,37430,5.2,804,15.976,2011,Marcus Nispel,male,48795021,90000000
+576,Fantastic Four,9738,5.6,4325,15.967,2005,Tim Story,male,330579719,100000000
+577,Buddy's Mom,387848,8.0,1,15.953,2015,Kong Ja-kwan,male,0,0
+578,Mortdecai,210860,5.4,1340,15.942,2015,David Koepp,male,30418560,60000000
+579,The NeverEnding Story,34584,7.1,1478,15.935,1984,Wolfgang Petersen,male,20158808,27000000
+580,Captain Underpants: The First Epic Movie,268531,6.0,425,15.902,2017,David Soren,male,125289450,38000000
+581,Shrek the Third,810,6.1,3525,15.896,2007,Chris Miller,male,798958165,160000000
+582,North by Northwest,213,7.9,1455,15.885,1959,Alfred Hitchcock,male,13275000,4000000
+583,Donnie Darko,141,7.8,5200,15.879,2001,Richard Kelly,male,1270522,6000000
+584,Bar Boys,469691,5.5,4,15.868,2017,Kip Oebanda,male,0,0
+585,E.T. the Extra-Terrestrial,601,7.4,4836,15.86,1982,Steven Spielberg,male,792965326,10500000
+586,Horrible Bosses,51540,6.5,3101,15.857,2011,Seth Gordon,male,117000000,35000000
+587,Jack Reacher,75780,6.4,3593,15.854,2012,Christopher McQuarrie,male,218340595,60000000
+588,Doraemon: Nobita and the Steel Troops,88625,5.2,5,15.849,1986,,,0,0
+589,The Meg,345940,0.0,4,15.846,2018,Jon Turteltaub,male,0,150000000
+590,After Earth,82700,5.1,3322,15.845,2013,M. Night Shyamalan,,243843127,130000000
+591,The Big Lebowski,115,7.9,4228,15.814,1998,Joel Coen,male,46189568,15000000
+592,Taken 2,82675,6.2,3386,15.814,2012,Olivier Megaton,male,376141306,45000000
+593,The 5th Wave,299687,5.7,2834,15.814,2016,J Blakeson,male,109906372,38000000
+594,The Big Short,318846,7.3,3603,15.769,2015,Adam McKay,male,133346506,28000000
+595,28 Days Later,170,7.2,2497,15.761,2002,Danny Boyle,male,82719885,5000000
+596,RoboCop,97020,5.7,2885,15.757,2014,José Padilha,male,242688965,120000000
+597,Jeepers Creepers 3,55341,4.5,190,15.74,2017,Victor Salva,male,0,30000000
+598,Riddick,87421,6.2,2463,15.725,2013,David Twohy,male,98337295,38000000
+599,Shock and Awe,476335,7.5,7,15.7,2018,Rob Reiner,male,0,0
+600,National Treasure: Book of Secrets,6637,6.1,2410,15.696,2007,Jon Turteltaub,male,457363168,130000000
+601,The Chronicles of Narnia: Prince Caspian,2454,6.4,2546,15.687,2008,Andrew Adamson,male,419651413,225000000
+602,Only the Brave,395991,6.7,343,15.687,2017,Joseph Kosinski,male,24202487,10000000
+603,Night at the Museum: Battle of the Smithsonian,18360,5.9,2994,15.685,2009,Shawn Levy,male,413106170,150000000
+604,The 6th Day,8452,5.8,812,15.679,2000,Roger Spottiswoode,male,96085477,82000000
+605,The Finest Hours,300673,6.4,789,15.655,2016,Craig Gillespie,male,52099090,80000000
+606,In Time,49530,6.8,4900,15.647,2011,Andrew Niccol,male,173930596,40000000
+607,The Twilight Saga: Eclipse,24021,5.9,3598,15.64,2010,David Slade,male,698491347,68000000
+608,Black Mass,261023,6.4,1665,15.637,2015,Scott Cooper,male,98837872,53000000
+609,Suburbicon,395458,5.6,534,15.637,2017,George Clooney,male,5775178,25000000
+610,The Hangover Part III,109439,6.1,4046,15.634,2013,Todd Phillips,male,362000072,103000000
+611,The Hangover Part II,45243,6.3,5008,15.619,2011,Todd Phillips,male,254455986,80000000
+612,The Great Gatsby,64682,7.3,5517,15.619,2013,Baz Luhrmann,male,351040419,105000000
+613,Cold Skin,428399,5.7,77,15.617,2017,Xavier Gens,male,0,9831962
+614,Nymphomaniac: Vol. II,249397,6.7,1139,15.616,2013,Lars von Trier,male,2227167,0
+615,Jack Reacher: Never Go Back,343611,5.4,2340,15.602,2016,Edward Zwick,male,162146076,60000000
+616,Lethal Weapon 2,942,6.8,1384,15.597,1989,Richard Donner,male,227853986,25000000
+617,Creed,312221,7.3,2812,15.583,2015,Ryan Coogler,male,173567581,37000000
+618,The Belko Experiment,341006,6.1,562,15.558,2016,Greg McLean,male,10166820,5000000
+619,Monsters University,62211,7.0,4975,15.548,2013,Dan Scanlon,male,743559607,200000000
+620,Australia,6972,6.4,1002,15.533,2008,Baz Luhrmann,male,49554002,130000000
+621,The Exorcist,9552,7.6,2900,15.524,1973,William Friedkin,male,441306145,8000000
+622,A.I. Artificial Intelligence,644,6.9,2763,15.52,2001,Steven Spielberg,male,235926552,100000000
+623,The Pelican Brief,9944,6.4,528,15.508,1993,Alan J. Pakula,male,195268056,45000000
+624,From Russia with Love,657,7.1,1063,15.507,1963,Terence Young,male,78898765,2000000
+625,The Snowman,372343,5.0,836,15.506,2017,Tomas Alfredson,male,43084060,35000000
+626,Thoroughbreds,397722,6.4,130,15.502,2018,Cory Finley,male,2830775,0
+627,Inferno,207932,5.8,3065,15.499,2016,Ron Howard,male,220021259,75000000
+628,Kung Fu Panda 2,49444,6.7,2754,15.497,2011,Jennifer Yuh Nelson,female,665692281,150000000
+629,Les Misérables,82695,7.3,2573,15.487,2012,Tom Hooper,male,441809770,61000000
+630,Phone Booth,1817,6.8,1502,15.484,2002,Joel Schumacher,male,97837138,13000000
+631,The Insult,468284,7.6,103,15.483,2017,Ziad Doueiri,male,1001305,3000000
+632,Fargo,275,7.8,2977,15.481,1996,Joel Coen,male,60611975,7000000
+633,Cloverfield,7191,6.5,3284,15.478,2008,Matt Reeves,male,170764026,25000000
+634,Hugo,44826,7.1,3082,15.478,2011,Martin Scorsese,male,185770160,170000000
+635,Every Day,465136,6.8,316,15.478,2018,Michael Sucsy,male,3623502,4900000
+636,Galaxy Quest,926,7.0,915,15.464,1999,Dean Parisot,male,90683916,45000000
+637,The Man Who Knew Infinity,353326,7.1,491,15.461,2016,Matt Brown,male,11472454,0
+638,All the President's Men,891,7.7,591,15.453,1976,Alan J. Pakula,male,70600000,8500000
+639,The Hitman's Bodyguard,390043,6.7,2143,15.452,2017,Patrick Hughes,male,176586701,30000000
+640,The Huntsman: Winter's War,290595,6.1,2253,15.437,2016,Cedric Nicolas-Troyan,male,164602163,115000000
+641,Spider-Man,557,7.0,7613,15.422,2002,Sam Raimi,male,821708551,139000000
+642,Charlie and the Chocolate Factory,118,6.8,6003,15.415,2005,Tim Burton,male,474968763,150000000
+643,The Miseducation of Cameron Post,426613,8.1,7,15.391,2018,Desiree Akhavan,female,0,0
+644,Wrong Turn 3: Left for Dead,23823,5.0,313,15.384,2009,Declan O'Brien,male,0,0
+645,Collateral,1538,7.1,2002,15.384,2004,Michael Mann,male,217764291,65000000
+646,Forbidden Planet,830,7.3,312,15.379,1956,Fred M. Wilcox,male,3250000,1900000
+647,Indiana Jones and the Last Crusade,89,7.7,4248,15.375,1989,Steven Spielberg,male,474171806,48000000
+648,Home Alone 2: Lost in New York,772,6.4,3596,15.364,1992,Chris Columbus,male,358991681,18000000
+649,A Beautiful Mind,453,7.8,4237,15.36,2001,Ron Howard,male,313542341,60000000
+650,Easy A,37735,6.8,3133,15.358,2010,Will Gluck,male,74952305,8000000
+651,Psycho,539,8.4,3605,15.356,1960,Alfred Hitchcock,male,32000000,806948
+652,Shaun of the Dead,747,7.6,3376,15.342,2004,Edgar Wright,male,30332385,4000000
+653,Eternal Sunshine of the Spotless Mind,38,8.0,5459,15.333,2004,Michel Gondry,male,72258126,20000000
+654,The Man Who Knew Too Much,574,7.4,393,15.332,1956,Alfred Hitchcock,male,10250000,2500000
+655,The Evil Dead,764,7.3,1313,15.331,1981,Sam Raimi,male,29400000,350000
+656,Wrong Turn 4: Bloody Beginnings,71672,5.3,304,15.326,2011,Declan O'Brien,male,0,0
+657,Batman & Robin,415,4.2,2048,15.311,1997,Joel Schumacher,male,238207122,125000000
+658,Journey 2: The Mysterious Island,72545,5.8,1553,15.307,2012,Brad Peyton,male,355692760,79000000
+659,Bright,400106,6.3,2130,15.302,2017,David Ayer,male,0,90000000
+660,Asterix & Obelix: Mission Cleopatra,2899,7.3,1195,15.291,2002,Alain Chabat,male,111127553,0
+661,Ouija,242512,5.0,1318,15.29,2014,Stiles White,,103590271,5000000
+662,The Land Before Time,12144,7.0,973,15.278,1988,Don Bluth,male,84460846,12300000
+663,A Walk in the Woods,232572,5.8,338,15.268,2015,Ken Kwapis,male,35991087,8000000
+664,Dragonheart: Battle for the Heartfire,451644,5.7,63,15.264,2017,Patrik Syversen,male,0,0
+665,American Psycho,1359,7.3,3086,15.256,2000,Mary Harron,female,34266564,7000000
+666,Lethal Weapon,941,7.1,1828,15.218,1987,Richard Donner,male,120207127,15000000
+667,A Cure for Wellness,340837,6.1,1553,15.213,2017,Gore Verbinski,male,26559557,40000000
+668,There's Something About Mary,544,6.5,2232,15.193,1998,Bobby Farrelly,male,369884651,23000000
+669,Superman,1924,7.0,1456,15.169,1978,Richard Donner,male,300218018,55000000
+670,Million Dollar Baby,70,7.9,3629,15.133,2004,Clint Eastwood,male,216763646,30000000
+671,It Follows,270303,6.5,2637,15.108,2014,David Robert Mitchell,male,14674076,2000000
+672,Alice in Wonderland,12092,7.1,2318,15.098,1951,Clyde Geronimi,male,572000000,3000000
+673,Cargo,425972,6.4,343,15.069,2017,Ben Howling,male,0,0
+674,The Invisible Guest,411088,8.2,893,15.068,2016,Oriol Paulo,male,30000000,4000000
+675,Madagascar: Escape 2 Africa,10527,6.3,2741,15.065,2008,Eric Darnell,male,603900354,150000000
+676,Braven,459910,6.1,150,15.063,2018,Lin Oeding,female,0,0
+677,Night at the Museum,1593,6.4,4409,15.056,2006,Shawn Levy,male,574480841,110000000
+678,Shrek Forever After,10192,6.1,2874,15.056,2010,Mike Mitchell,male,752600867,165000000
+679,Unforgiven,33,7.9,1519,15.05,1992,Clint Eastwood,male,159157447,14000000
+680,Ocean's Thirteen,298,6.6,2706,15.046,2007,Steven Soderbergh,male,311312624,85000000
+681,Beirut,399248,6.2,96,15.028,2018,Brad Anderson,male,201901,0
+682,Any Given Sunday,9563,6.8,625,15.024,1999,Oliver Stone,male,100230832,55000000
+683,Percy Jackson & the Olympians: The Lightning Thief,32657,6.1,3022,15.012,2010,Chris Columbus,male,226497209,95000000
+684,Step Up,9762,6.8,1647,15.011,2006,Anne Fletcher,female,114194847,12000000
+685,The Hitchhiker's Guide to the Galaxy,7453,6.7,1848,15.002,2005,Garth Jennings,male,104478416,50000000
+686,Goldfinger,658,7.4,1361,14.987,1964,Guy Hamilton,male,124881062,2500000
+687,Catch Me If You Can,640,7.8,5448,14.984,2002,Steven Spielberg,male,352114312,52000000
+688,Forever My Girl,417261,7.1,136,14.984,2018,Bethany Ashton Wolf,female,16367326,3500000
+689,The Pursuit of Happyness,1402,7.8,3812,14.978,2006,Gabriele Muccino,male,307077295,55000000
+690,Shot Caller,339692,6.8,719,14.967,2017,Ric Roman Waugh,male,0,0
+691,14 and Under,80295,6.0,11,14.938,1973,Ernst Hofbauer,male,0,0
+692,(500) Days of Summer,19913,7.2,4251,14.938,2009,Marc Webb,male,60722734,7500000
+693,Licence to Kill,709,6.1,736,14.917,1989,John Glen,male,156167015,32000000
+694,Zombieland,19908,7.2,4866,14.917,2009,Ruben Fleischer,male,102391382,23600000
+695,Kill Bill: Vol. 2,393,7.8,5724,14.902,2004,Quentin Tarantino,male,152159461,30000000
+696,The Transporter,4108,6.6,2288,14.896,2002,Louis Leterrier,male,43928932,21000000
+697,A View to a Kill,707,6.1,686,14.886,1985,John Glen,male,152427960,30000000
+698,I Saw the Devil,49797,7.6,733,14.878,2010,Kim Jee-woon,female,0,0
+699,The Mummy,282035,5.4,3458,14.871,2017,Alex Kurtzman,male,407778013,125000000
+700,Watchmen,13183,7.2,3887,14.869,2009,Zack Snyder,male,185258983,130000000
+701,War of the Worlds,74,6.2,3401,14.86,2005,Steven Spielberg,male,591739379,132000000
+702,Vinnukkum Mannukkum,78622,3.5,1,14.855,2001,Rajakumaran,,0,0
+703,Chronicle,76726,6.7,2536,14.843,2012,Josh Trank,male,145000000,15000000
+704,Wrong Turn 5: Bloodlines,125509,4.9,305,14.836,2012,Declan O'Brien,male,0,0
+705,300: Rise of an Empire,53182,6.0,3153,14.828,2014,Noam Murro,male,337580051,110000000
+706,Battleship,44833,5.6,2675,14.826,2012,Peter Berg,male,303025485,209000000
+707,Paddington 2,346648,7.5,463,14.818,2017,Paul King,male,185847106,40000000
+708,One Hundred and One Dalmatians,12230,6.9,2442,14.807,1961,Clyde Geronimi,male,215880014,4000000
+709,Heat,949,7.8,2514,14.799,1995,Michael Mann,male,187436818,60000000
+710,The Bourne Supremacy,2502,7.3,3602,14.799,2004,Paul Greengrass,male,288500217,75000000
+711,Secret of the Wings,75258,6.8,429,14.777,2012,Roberts Gannaway,male,0,0
+712,Scary Movie 5,4258,4.6,1153,14.766,2013,Malcolm D. Lee,male,78378744,20000000
+713,Minority Report,180,7.2,3635,14.758,2002,Steven Spielberg,male,358372926,102000000
+714,Despicable Me 3,324852,6.3,3181,14.743,2017,Kyle Balda,male,1031552585,80000000
+715,The 40 Year Old Virgin,6957,6.2,2738,14.73,2005,Judd Apatow,male,109449237,26000000
+716,Her,152601,7.9,5856,14.72,2013,Spike Jonze,male,47351251,23000000
+717,Child 44,181283,6.1,736,14.717,2015,Daniel Espinosa,male,3324330,50000000
+718,Starship Troopers,563,6.8,2023,14.705,1997,Paul Verhoeven,male,121214377,105000000
+719,Sully,363676,7.0,2991,14.703,2016,Clint Eastwood,male,238470033,60000000
+720,Die Hard: With a Vengeance,1572,7.1,2677,14.697,1995,John McTiernan,male,366101666,90000000
+721,Constantine,561,6.7,2489,14.693,2005,Francis Lawrence,male,230884728,100000000
+722,Land of the Dead,11683,6.1,534,14.69,2005,George A. Romero,male,46770602,15000000
+723,Sucker Punch,23629,6.0,2229,14.686,2011,Zack Snyder,male,89792502,82000000
+724,The Mummy: Tomb of the Dragon Emperor,1735,5.2,1951,14.685,2008,Rob Cohen,male,401128639,145000000
+725,Die Hard 2,1573,6.8,2424,14.685,1990,Renny Harlin,male,240031094,70000000
+726,Hairspray,2976,6.5,1065,14.674,2007,Adam Shankman,male,90450008,50000000
+727,The Florida Project,394117,7.4,704,14.669,2017,Sean Baker,male,5904366,2000000
+728,Cast Away,8358,7.5,4575,14.656,2000,Robert Zemeckis,male,429632142,90000000
+729,Diamonds Are Forever,681,6.4,760,14.654,1971,Guy Hamilton,male,116019547,7200000
+730,Meet the Fockers,693,6.1,2028,14.652,2004,Jay Roach,male,516642939,80000000
+731,The Fault in Our Stars,222935,7.6,5516,14.643,2014,Josh Boone,male,307166834,12000000
+732,The Killing of a Sacred Deer,399057,6.8,791,14.621,2017,Yorgos Lanthimos,male,2291901,0
+733,Sherlock Holmes: A Game of Shadows,58574,7.0,5210,14.619,2011,Guy Ritchie,male,334615000,125000000
+734,The Golden Compass,2268,5.9,1948,14.599,2007,Chris Weitz,male,372234864,180000000
+735,On Her Majesty's Secret Service,668,6.5,648,14.583,1969,Peter R. Hunt,male,81974493,6500000
+736,Moonlight,376867,7.3,2917,14.579,2016,Barry Jenkins,male,65046687,4000000
+737,Moneyball,60308,7.1,1832,14.567,2011,Bennett Miller,male,110206216,50000000
+738,Drive,64690,7.5,5265,14.565,2011,Nicolas Winding Refn,male,78054825,15000000
+739,Alien³,8077,6.3,2196,14.56,1992,David Fincher,male,159773545,50000000
+740,I Am Sam,10950,7.4,778,14.557,2001,Jessie Nelson,female,92542418,22000000
+741,Ballet Shoes,20497,6.4,133,14.542,2008,Sandra Goldbacher,female,0,0
+742,Amélie,194,7.9,4684,14.528,2001,Jean-Pierre Jeunet,male,173921954,10000000
+743,Alien Resurrection,8078,6.0,1873,14.524,1997,Jean-Pierre Jeunet,male,162000000,70000000
+744,The November Man,254904,6.1,753,14.52,2014,Roger Donaldson,male,32556119,15000000
+745,Papillon,433498,6.5,57,14.519,2018,Michael Noer,male,0,0
+746,Derailed,17774,4.0,73,14.507,2002,Bob Misiorowski,male,0,0
+747,Star Trek,13475,7.4,5456,14.487,2009,J.J. Abrams,male,385680446,150000000
+748,Robots,9928,6.1,1871,14.48,2005,Chris Wedge,male,260696994,75000000
+749,"The Good, the Bad and the Ugly",429,8.3,3182,14.475,1966,Sergio Leone,male,6000000,1200000
+750,The Lego Batman Movie,324849,7.2,2223,14.473,2017,Chris McKay,male,311950384,80000000
+751,Live and Let Die,253,6.5,722,14.452,1973,Guy Hamilton,male,161777836,7000000
+752,Death Race,10483,6.1,1615,14.444,2008,Paul W.S. Anderson,male,73762516,45000000
+753,Trainspotting,627,7.9,4022,14.442,1996,Danny Boyle,male,16491080,4000000
+754,Cloudy with a Chance of Meatballs,22794,6.5,2462,14.441,2009,Phil Lord,male,242988466,100000000
+755,Sleepy Hollow,2668,7.0,2628,14.438,1999,Tim Burton,male,206071502,100000000
+756,Evil Dead,109428,6.4,2192,14.427,2013,Fede Alvarez,male,97542952,17000000
+757,Rush,96721,7.7,3089,14.414,2013,Ron Howard,male,90247624,38000000
+758,47 Meters Down,403119,5.4,1080,14.409,2017,Johannes Roberts,male,44235023,5500000
+759,Sixteen Candles,15144,6.9,649,14.406,1984,John Hughes,male,23686027,6500000
+760,Sleeping Beauty,10882,6.8,2000,14.403,1959,Clyde Geronimi,male,51000000,6000000
+761,The Simpsons Movie,35,6.9,3497,14.401,2007,David Silverman,male,527068851,75000000
+762,Percy Jackson: Sea of Monsters,76285,5.9,2331,14.401,2013,Thor Freudenthal,male,174578751,90000000
+763,Teen Beach 2,325189,6.2,171,14.395,2015,Jeffrey Hornaday,male,0,0
+764,Logan Lucky,399170,6.6,1021,14.394,2017,Steven Soderbergh,male,47299234,29000000
+765,Loving Vincent,339877,8.3,721,14.393,2017,Dorota Kobiela,female,6735118,5500000
+766,Dead Poets Society,207,8.3,4250,14.372,1989,Peter Weir,male,235860116,16400000
+767,The Mountain Between Us,290512,6.5,806,14.369,2017,Hany Abu-Assad,male,62832209,35000000
+768,The World Is Not Enough,36643,6.2,1182,14.362,1999,Michael Apted,male,361832400,135000000
+769,Doom,8814,5.0,800,14.36,2005,Andrzej Bartkowiak,male,55987321,60000000
+770,Kidnap,293768,6.0,616,14.358,2017,Luis Prieto,male,30718107,21000000
+771,My Husband's Tutor,437027,1.0,1,14.351,2017,,,0,0
+772,How It Ends,475210,5.2,166,14.346,2018,David M. Rosenthal,male,0,20000000
+773,Kagemusha,11953,7.9,197,14.343,1980,Akira Kurosawa,male,0,0
+774,The Color Purple,873,7.8,526,14.336,1985,Steven Spielberg,male,146292009,15000000
+775,Something Something... Unakkum Enakkum,63815,8.0,5,14.325,2006,M. Raja,,0,0
+776,1922,452507,6.0,752,14.317,2017,Zak Hilditch,male,0,0
+777,The Dreamers,1278,7.2,1088,14.303,2003,Bernardo Bertolucci,male,15121165,15000000
+778,Cats & Dogs,10992,5.1,550,14.301,2001,Lawrence Guterman,male,93375151,60000000
+779,Mary Magdalene,407439,6.3,93,14.298,2018,Garth Davis,male,10940439,0
+780,The Conjuring 2,259693,7.1,2879,14.294,2016,James Wan,male,320170008,40000000
+781,Johnny English Reborn,58233,6.0,1336,14.293,2011,Oliver Parker,male,160078586,45000000
+782,Austin Powers: The Spy Who Shagged Me,817,6.2,1403,14.258,1999,Jay Roach,male,312016858,33000000
+783,Batman Ninja,485942,6.0,112,14.257,2018,Junpei Mizusaki,,0,0
+784,Paranormal Activity 4,82990,5.3,786,14.253,2012,Henry Joost,male,142817992,5000000
+785,Source Code,45612,7.2,3563,14.248,2011,Duncan Jones,male,147332697,32000000
+786,Eighth Grade,489925,10.0,8,14.243,2018,Bo Burnham,male,252284,0
+787,The Ottoman Lieutenant,433356,6.0,89,14.237,2017,Joseph Ruben,male,240978,40000000
+788,The Da Vinci Code,591,6.6,3943,14.224,2006,Ron Howard,male,767820459,125000000
+789,Mulan,10674,7.8,3337,14.216,1998,Tony Bancroft,male,304320254,90000000
+790,Below Her Mouth,370663,6.1,253,14.215,2017,April Mullen,female,0,0
+791,A Bug's Life,9487,6.9,3644,14.214,1998,John Lasseter,male,363258859,120000000
+792,Superbad,8363,7.0,2783,14.213,2007,Greg Mottola,male,121463226,20000000
+793,For Your Eyes Only,699,6.5,673,14.191,1981,John Glen,male,195312802,28000000
+794,Castle in the Sky,10515,7.9,1229,14.156,1986,Hayao Miyazaki,,0,0
+795,Undisputed III : Redemption,38234,7.4,242,14.138,2010,Isaac Florentine,male,0,3000000
+796,In the Realm of the Senses,5879,6.5,144,14.133,1976,Nagisa Ōshima,female,0,0
+797,The Great Wall,311324,5.8,2112,14.131,2016,Zhang Yimou,,331957105,150000000
+798,Lara Croft: Tomb Raider – The Cradle of Life,1996,5.6,1954,14.126,2003,Jan de Bont,male,156505388,95000000
+799,Vice,307663,4.2,282,14.102,2015,Brian A Miller,male,0,10000000
+800,Alice Through the Looking Glass,241259,6.5,2737,14.097,2016,James Bobin,male,299370084,170000000
+801,Kanchana 3,498580,0.0,0,14.094,2018,Lawrence Raghavendra,male,0,0
+802,Hansel & Gretel: Witch Hunters,60304,5.8,3881,14.088,2013,Tommy Wirkola,male,224803475,50000000
+803,King Kong,254,6.7,3348,14.086,2005,Peter Jackson,male,550517357,207000000
+804,Sharknado 5: Global Swarming,438970,4.6,86,14.082,2017,Anthony C. Ferrante,male,0,3000000
+805,The Cabin in the Woods,22970,6.6,3116,14.059,2012,Drew Goddard,male,70742948,30000000
+806,The ComDads,10484,6.5,109,14.053,1983,Francis Veber,male,0,0
+807,Cult of Chucky,393345,5.1,381,14.045,2017,Don Mancini,male,0,0
+808,The Princess and the Frog,10198,6.9,1915,14.041,2009,Ron Clements,male,270997378,105000000
+809,Men in Black 3,41154,6.3,5286,14.04,2012,Barry Sonnenfeld,male,624026776,225000000
+810,Cats & Dogs: The Revenge of Kitty Galore,39691,4.8,180,14.025,2010,Brad Peyton,male,112483764,85000000
+811,Stepmom,427291,0.0,0,14.017,2016,Kim Moo-won,female,0,0
+812,City of God,598,8.3,2486,14.01,2002,Fernando Meirelles,male,30641770,3300000
+813,Nausicaä of the Valley of the Wind,81,7.8,1111,14.002,1984,Hayao Miyazaki,,3301446,1000000
+814,Rain Man,380,7.7,2457,14.0,1988,Barry Levinson,male,412800000,25000000
+815,Child's Play,10585,6.4,880,13.996,1988,Tom Holland,male,44196684,9000000
+816,Operation Red Sea,460555,6.5,18,13.987,2018,Dante Lam,male,378942213,70000000
+817,"Crazy, Stupid, Love.",50646,7.1,3479,13.983,2011,Glenn Ficarra,male,142851197,50000000
+818,The Magnificent Seven,333484,6.1,3016,13.975,2016,Antoine Fuqua,male,162360636,90000000
+819,Mary and the Witch's Flower,430447,7.0,145,13.971,2017,Hiromasa Yonebayashi,male,0,0
+820,Spotlight,314365,7.8,3788,13.963,2015,Tom McCarthy,male,88346473,20000000
+821,The Week Of,465109,5.0,163,13.96,2018,Robert Smigel,male,0,0
+822,The Perks of Being a Wallflower,84892,7.8,4388,13.959,2012,Stephen Chbosky,male,33400000,13000000
+823,The Godfather: Part III,242,7.3,2253,13.945,1990,Francis Ford Coppola,male,136766062,54000000
+824,TRON: Legacy,20526,6.3,3633,13.945,2010,Joseph Kosinski,male,400062763,170000000
+825,The Predator,346910,0.0,11,13.943,2018,Shane Black,male,0,0
+826,Twelve Monkeys,63,7.5,3439,13.942,1995,Terry Gilliam,male,168840000,29500000
+827,300,1271,7.1,6583,13.941,2006,Zack Snyder,male,422610419,65000000
+828,Lilo & Stitch,11544,7.3,2148,13.931,2002,Dean DeBlois,male,145771527,80000000
+829,G.I. Joe: Retaliation,72559,5.5,3488,13.912,2013,Jon M. Chu,male,371876278,130000000
+830,The Battleship Island,436391,7.1,67,13.9,2017,Ryoo Seung-wan,female,0,0
+831,Pokémon: The First Movie: Mewtwo Strikes Back,10228,6.8,492,13.889,1998,Michael Haigney,male,163644662,30000000
+832,Okja,387426,7.6,1572,13.887,2017,Bong Joon-ho,male,0,50000000
+833,Indiana Jones and the Kingdom of the Crystal Skull,217,5.8,3504,13.879,2008,Steven Spielberg,male,786636033,185000000
+834,We're the Millers,138832,6.8,4134,13.878,2013,Rawson Thurber,,269994119,37000000
+835,Cheeky,22705,5.5,56,13.872,2000,Tinto Brass,male,0,0
+836,Good Will Hunting,489,8.0,4199,13.871,1997,Gus Van Sant,male,225933435,10000000
+837,American Hustle,168672,6.8,3714,13.869,2013,David O. Russell,male,251171807,40000000
+838,Proud Mary,442064,5.5,180,13.869,2018,Babak Najafi,male,21753365,14000000
+839,In the Heart of the Sea,205775,6.5,1736,13.865,2015,Ron Howard,male,93820758,100000000
+840,Sister's Younger Husband,418827,8.5,2,13.865,2016,Park Eun-ho,male,0,0
+841,The Living Daylights,708,6.3,603,13.864,1987,John Glen,male,191185897,40000000
+842,Citizen Kane,15,8.1,1792,13.854,1941,Orson Welles,male,23217674,839727
+843,Annie Hall,703,7.8,1507,13.853,1977,Woody Allen,male,38251425,4000000
+844,Lady and the Tramp,10340,7.0,1925,13.853,1955,Clyde Geronimi,male,93600000,0
+845,Maayanadhi,458741,6.7,6,13.846,2017,Aashiq Abu,,0,0
+846,Ya veremos,525213,0.0,0,13.844,2018,Pedro Pablo Ibarra,male,0,0
+847,Gothika,4970,5.9,903,13.84,2003,Mathieu Kassovitz,male,141591324,40000000
+848,Me Before You,296096,7.6,4204,13.839,2016,Thea Sharrock,female,207945075,20000000
+849,Noah,86834,5.5,3174,13.832,2014,Darren Aronofsky,male,362637473,125000000
+850,Rio 2,172385,6.3,1363,13.823,2014,Carlos Saldanha,male,500188435,103000000
+851,Vertigo,426,8.2,1774,13.814,1958,Alfred Hitchcock,male,28000000,2479000
+852,The Idiots,452,6.6,165,13.792,1998,Lars von Trier,male,7235,2500000
+853,Cheaper by the Dozen 2,9641,5.8,778,13.787,2005,Adam Shankman,male,129181830,60000000
+854,Scary Movie 3,4256,5.8,1449,13.787,2003,David Zucker,male,220673217,48000000
+855,Letters to Juliet,37056,6.7,1178,13.784,2010,Gary Winick,male,82148538,30000000
+856,Planet of the Apes,871,7.6,1312,13.782,1968,Franklin J. Schaffner,male,33395426,5800000
+857,ParaNorman,77174,6.8,1026,13.78,2012,Sam Fell,male,107139399,60000000
+858,Never Back Down: No Surrender,391757,6.5,126,13.779,2016,Michael Jai White,male,0,0
+859,Young Mother: The Original,405817,0.0,0,13.762,2016,Jeong Do-soo,female,0,0
+860,Kiki's Delivery Service,16859,7.7,1093,13.754,1989,Hayao Miyazaki,,18172849,6900000
+861,Terminator Salvation,534,5.9,3118,13.752,2009,McG,,371353001,200000000
+862,Batman Returns,364,6.7,2408,13.743,1992,Tim Burton,male,280000000,80000000
+863,Miss Peregrine's Home for Peculiar Children,283366,6.6,4907,13.74,2016,Tim Burton,male,296485719,110000000
+864,Suicide Squad: Hell to Pay,487242,6.9,89,13.734,2018,Sam Liu,male,0,0
+865,The Hurt Locker,12162,7.2,2469,13.734,2008,Kathryn Bigelow,female,42000000,15000000
+866,Need for Speed,136797,6.1,1926,13.729,2014,Scott Waugh,male,203277636,66000000
+867,The Legend of Tarzan,258489,5.7,3415,13.728,2016,David Yates,male,356743061,180000000
+868,Mary Poppins,433,7.5,1789,13.727,1964,Robert Stevenson,male,102272727,6000000
+869,Stronger,395993,7.0,444,13.725,2017,David Gordon Green,male,5796490,30000000
+870,My Sister-in-law's Job,482204,0.0,0,13.706,2017,No Hyun-jin,,0,0
+871,Anaconda,9360,4.8,883,13.704,1997,Luis Llosa,male,136,45
+872,Atlantis: The Lost Empire,10865,6.7,1837,13.697,2001,Gary Trousdale,male,186053725,120000000
+873,Super 8,37686,6.7,3271,13.696,2011,J.J. Abrams,male,260095987,50000000
+874,6 Days,347984,6.0,215,13.694,2017,Toa Fraser,,4886,0
+875,Austin Powers in Goldmember,818,5.9,1356,13.691,2002,Jay Roach,male,296655431,63000000
+876,Platoon,792,7.6,1673,13.683,1986,Oliver Stone,male,138530565,6000000
+877,Saw III,214,6.3,1697,13.675,2006,Darren Lynn Bousman,male,163876815,10000000
+878,Finding Neverland,866,7.3,1793,13.665,2004,Marc Forster,male,116766556,25000000
+879,Neighbors,195589,6.2,3656,13.657,2014,Nicholas Stoller,male,268157400,18000000
+880,You Only Live Twice,667,6.6,734,13.656,1967,Lewis Gilbert,male,111584787,9500000
+881,War Dogs,308266,6.8,1909,13.655,2016,Todd Phillips,male,86234523,40000000
+882,10 Things I Hate About You,4951,7.4,2605,13.654,1999,Gil Junger,male,53478166,16000000
+883,The Jungle Book,278927,6.8,4117,13.636,2016,Jon Favreau,male,966550600,175000000
+884,Unfriended,277685,5.4,1511,13.635,2015,Levan Gabriadze,male,62882090,1000000
+885,Seven Samurai,346,8.3,1158,13.634,1954,Akira Kurosawa,male,271841,2000000
+886,American Pie Presents: Band Camp,8274,5.3,826,13.632,2005,Steve Rash,male,0,10000000
+887,Home,228161,6.8,1919,13.62,2015,Tim Johnson,male,368871007,135000000
+888,Looper,59967,6.7,5780,13.619,2012,Rian Johnson,male,47042000,30000000
+889,Mean Girls,10625,7.0,3476,13.618,2004,Mark Waters,male,129042871,17000000
+890,The Chronicles of Narnia: The Voyage of the Dawn Treader,10140,6.2,2338,13.617,2010,Michael Apted,male,415686217,155000000
+891,Black Hawk Down,855,7.3,2405,13.608,2001,Ridley Scott,male,172989651,92000000
+892,The Curious Case of Benjamin Button,4922,7.4,4838,13.604,2008,David Fincher,male,333932083,150000000
+893,Mom and Dad,401561,5.2,189,13.589,2018,Brian Taylor,male,0,0
+894,The Secret Life of Walter Mitty,116745,7.1,4068,13.583,2013,Ben Stiller,male,188133322,90000000
+895,Limitless,51876,7.1,5033,13.583,2011,Neil Burger,male,161849455,27000000
+896,Terminator 3: Rise of the Machines,296,6.0,2865,13.579,2003,Jonathan Mostow,male,435000000,200000000
+897,The Theory of Everything,266856,7.9,4870,13.576,2014,James Marsh,male,123726688,15000000
+898,Mr. Peabody & Sherman,82703,6.7,1089,13.575,2014,Rob Minkoff,male,272912430,145000000
+899,Saw VI,22804,6.1,1150,13.574,2009,Kevin Greutert,male,68233629,11000000
+900,The Smurfs,41513,5.6,1637,13.567,2011,Raja Gosnell,male,563749323,110000000
+901,Miss Sloane,376290,7.3,650,13.567,2016,John Madden,male,9101546,13000000
+902,The Princess Bride,2493,7.6,1879,13.537,1987,Rob Reiner,male,30857814,16000000
+903,Pinocchio,10895,7.0,2142,13.492,1940,Hamilton Luske,male,84300000,2600000
+904,Aliens vs Predator: Requiem,440,4.9,999,13.49,2007,Colin Strause,male,41797066,40000000
+905,Déjà Vu,7551,6.7,1999,13.488,2006,Tony Scott,male,180557550,75000000
+906,Ghost Rider: Spirit of Vengeance,71676,4.7,1584,13.485,2011,Mark Neveldine,male,149217355,57000000
+907,Undisputed II: Last Man Standing,15255,7.0,198,13.481,2006,Isaac Florentine,male,0,0
+908,Surrogates,19959,6.0,1533,13.479,2009,Jonathan Mostow,male,122444772,80000000
+909,The Shallows,332567,6.3,2278,13.475,2016,Jaume Collet-Serra,male,119100758,17000000
+910,Spitfire,524377,0.0,0,13.474,2018,David Fairhead,male,0,0
+911,Big Legend,526224,5.7,10,13.469,2018,Justin Lee,male,0,0
+912,When We First Met,433310,6.7,776,13.466,2018,Ari Sandel,male,0,10000000
+913,Pan's Labyrinth,1417,7.7,4538,13.465,2006,Guillermo del Toro,male,83258226,19000000
+914,Texas Chainsaw 3D,76617,5.3,621,13.463,2013,John Luessenhop,male,0,10000000
+915,The Abyss,2756,7.2,1084,13.461,1989,James Cameron,male,90000098,70000000
+916,The Emperor's New Groove,11688,7.4,2356,13.459,2000,Mark Dindal,male,169327687,100000000
+917,Tropic Thunder,7446,6.5,2345,13.453,2008,Ben Stiller,male,188072649,92000000
+918,Bee Movie,5559,5.8,1791,13.451,2007,Steve Hickner,male,287594577,150000000
+919,Very Good Girls,70706,6.0,177,13.45,2013,Naomi Foner Gyllenhaal,female,0,0
+920,The Day the Earth Stood Still,828,7.5,410,13.449,1951,Robert Wise,male,0,1200000
+921,Sorry to Bother You,424781,6.5,24,13.441,2018,Boots Riley,female,717302,0
+922,Dumb and Dumber To,100042,5.4,1458,13.439,2014,Bobby Farrelly,male,169837010,40000000
+923,Snowpiercer,110415,6.7,3829,13.414,2013,Bong Joon-ho,male,86758912,39200000
+924,Casablanca,289,8.1,1984,13.413,1942,Michael Curtiz,male,10462500,878000
+925,Enter the Dragon,9461,7.4,634,13.413,1973,Robert Clouse,male,0,10000000
+926,13 Hours: The Secret Soldiers of Benghazi,300671,7.0,1290,13.41,2016,Michael Bay,male,69411370,50000000
+927,DragonHeart: A New Beginning,10473,5.4,106,13.403,2000,Doug Lefler,male,0,0
+928,Cloud Atlas,83542,6.8,3786,13.389,2012,Lilly Wachowski,female,130482868,102000000
+929,The DUFF,272693,6.8,2126,13.385,2015,Ari Sandel,male,43528634,8500000
+930,Willy Wonka & the Chocolate Factory,252,7.4,1228,13.383,1971,Mel Stuart,female,4000000,3000000
+931,Evan Almighty,2698,5.3,1723,13.381,2007,Tom Shadyac,male,173000000,175000000
+932,Sausage Party,223702,5.6,3241,13.381,2016,Conrad Vernon,male,140705322,19000000
+933,Salyut-7,438740,7.0,95,13.377,2017,Klim Shipenko,female,13767037,15000000
+934,Moonrise Kingdom,83666,7.7,2337,13.374,2012,Wes Anderson,male,68263166,16000000
+935,Teenage Mutant Ninja Turtles: Out of the Shadows,308531,5.8,1438,13.366,2016,Dave Green,male,245623848,135000000
+936,Deep Impact,8656,6.0,1145,13.365,1998,Mimi Leder,female,140464664,75000000
+937,The Lego Movie,137106,7.5,3933,13.363,2014,Phil Lord,male,469160692,60000000
+938,AVP: Alien vs. Predator,395,5.6,1690,13.362,2004,Paul W.S. Anderson,male,171183863,70000000
+939,The Help,50014,8.0,2906,13.359,2011,Tate Taylor,male,124272124,25000000
+940,Groundhog Day,137,7.5,3170,13.358,1993,Harold Ramis,male,70906973,14600000
+941,Orphan,21208,6.8,1895,13.356,2009,Jaume Collet-Serra,male,41596251,20000000
+942,Scream,4232,7.1,2164,13.343,1996,Wes Craven,male,173046663,14000000
+943,The Drop,154400,6.7,1036,13.337,2014,Michaël R. Roskam,male,19054534,12600000
+944,The Interview,228967,6.2,2943,13.331,2014,Evan Goldberg,male,12342632,44000000
+945,Fantasia,756,7.3,1159,13.322,1940,Samuel Armstrong,male,83320000,2280000
+946,Saw: The Final Chapter,41439,5.9,1125,13.315,2010,Kevin Greutert,male,136150434,20000000
+947,Star Wars: Episode II - Attack of the Clones,1894,6.5,5743,13.302,2002,George Lucas,male,649398328,120000000
+948,Shikari,407312,5.0,1,13.288,2000,N. Chandra,,0,0
+949,Dark Crimes,340674,5.2,51,13.28,2016,Alexandros Avranas,male,0,4480393
+950,The Man from U.N.C.L.E.,203801,7.1,2941,13.275,2015,Guy Ritchie,male,108145109,75000000
+951,Happy Death Day,440021,6.5,1817,13.267,2017,Christopher B. Landon,male,122637878,4800000
+952,Room,264644,8.1,4121,13.264,2015,Lenny Abrahamson,male,35401758,6000000
+953,Mr. Right,333385,6.3,569,13.26,2016,Paco Cabezas,male,34694,8000000
+954,Friday the 13th,13207,5.7,855,13.255,2009,Marcus Nispel,male,91379051,19000000
+955,Apollo 18,50357,5.0,415,13.249,2011,Gonzalo López-Gallego,male,25562924,5000000
+956,8MM,8224,6.1,652,13.247,1999,Joel Schumacher,male,96618699,40000000
+957,Smokin' Aces,7516,6.4,686,13.245,2006,Joe Carnahan,male,57103895,17000000
+958,Apocalypse Now,28,8.2,2990,13.233,1979,Francis Ford Coppola,male,89460381,31500000
+959,Sunshine,1272,7.0,1561,13.23,2007,Danny Boyle,male,32017803,50000000
+960,The Good Dinosaur,105864,6.7,2457,13.228,2015,Peter Sohn,male,331926147,175000000
+961,Stonehearst Asylum,207933,6.7,535,13.226,2014,Brad Anderson,male,0,0
+962,The Elephant Man,1955,8.0,1076,13.218,1980,David Lynch,male,26010864,5000000
+963,Boyhood,85350,7.5,2564,13.208,2014,Richard Linklater,male,44349000,4000000
+964,Mythica: A Quest for Heroes,321068,5.9,74,13.206,2014,Anne K. Black,female,0,0
+965,Guardians,354556,4.5,256,13.205,2017,Sarik Andreasyan,,4803565,5400000
+966,Dark Shadows,62213,5.8,3288,13.179,2012,Tim Burton,male,245527149,150000000
+967,Homefront,204082,6.4,1145,13.179,2013,Gary Fleder,male,43058898,22000000
+968,Colossal,339967,6.1,776,13.178,2016,Nacho Vigalondo,male,3029287,0
+969,Bad Boys,9737,6.5,2291,13.178,1995,Michael Bay,male,141407024,19000000
+970,Commando,10999,6.5,995,13.17,1985,Mark L. Lester,male,57500000,10000000
+971,Mr. & Mrs. Smith,787,6.6,4296,13.159,2005,Doug Liman,male,478207520,110000000
+972,A Silent Voice,378064,8.3,519,13.158,2016,Naoko Yamada,female,310407,0
+973,Tarzan,37135,7.3,2633,13.153,1999,Chris Buck,male,448000000,150000000
+974,Armageddon,95,6.6,3425,13.153,1998,Michael Bay,male,553799566,140000000
+975,Batman Forever,414,5.3,2136,13.152,1995,Joel Schumacher,male,336529144,100000000
+976,Anchorman: The Legend of Ron Burgundy,8699,6.8,1940,13.151,2004,Adam McKay,male,90574188,26000000
+977,The Blues Brothers,525,7.7,1514,13.15,1980,John Landis,male,115229890,27000000
+978,Coraline,14836,7.5,2200,13.144,2009,Henry Selick,male,124596398,60000000
+979,Kit Kittredge: An American Girl,8359,6.2,53,13.132,2008,Patricia Rozema,female,0,0
+980,Snatch,107,7.7,3818,13.124,2000,Guy Ritchie,male,83557872,10000000
+981,Johnny English,9486,6.1,1215,13.124,2003,Peter Howitt,male,160583018,40000000
+982,Indecent Proposal,4478,5.9,434,13.121,1993,Adrian Lyne,male,266614059,38000000
+983,Halloween,948,7.5,1558,13.115,1978,John Carpenter,male,0,10000000
+984,Detroit,407448,7.3,534,13.113,2017,Kathryn Bigelow,female,16790139,34000000
+985,Devil's Knot,152792,5.9,282,13.112,2013,Atom Egoyan,male,0,15000000
+986,Vicky Cristina Barcelona,5038,6.7,1520,13.105,2008,Woody Allen,male,96408652,15000000
+987,Spy Kids,10054,5.6,1317,13.102,2001,Robert Rodriguez,male,147934180,35000000
+988,Calibre,474051,6.7,48,13.087,2018,Matt Palmer,male,0,0
+989,The Big Sick,416477,7.5,892,13.086,2017,Michael Showalter,male,56303596,5000000
+990,15+ IQ Krachoot,483877,4.0,22,13.086,2017,Napat jidwerapat,male,0,0
+991,The Holiday,1581,6.8,1833,13.079,2006,Nancy Meyers,female,194168700,85000000
+992,Return of the Jedi,1892,8.0,6555,13.078,1983,Richard Marquand,male,572700000,32350000
+993,Flight,87502,6.6,2978,13.077,2012,Robert Zemeckis,male,161772375,31000000
+994,Gulebakavali,463958,9.0,1,13.075,2018,Kalyan,male,0,0
+995,Captain Fantastic,334533,7.9,2553,13.075,2016,Matt Ross,male,5879736,5000000
+996,DragonHeart,8840,6.5,790,13.07,1996,Rob Cohen,male,115267375,57000000
+997,Final Destination,9532,6.4,2028,13.067,2000,James Wong,male,53302314,23000000
+998,Nocturnal Animals,340666,7.3,3022,13.061,2016,Tom Ford,male,29252978,22500000
+999,Crank,1948,6.6,1543,13.054,2006,Brian Taylor,male,42931041,12000000
